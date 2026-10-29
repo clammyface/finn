@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pdfplumber
+pypdf
+python-dotenv
+google-genai
+tavily-python
+yfinance
+pandas

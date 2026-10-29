@@ -1,0 +1,22 @@
+[
+  {"symbol": "RELIANCE",   "name": "Reliance Industries", "sector": "Energy"},
+  {"symbol": "HDFCBANK",   "name": "HDFC Bank",           "sector": "Banking"},
+  {"symbol": "ICICIBANK",  "name": "ICICI Bank",          "sector": "Banking"},
+  {"symbol": "TCS",        "name": "Tata Consultancy",    "sector": "IT"},
+  {"symbol": "INFY",       "name": "Infosys",             "sector": "IT"},
+  {"symbol": "ITC",        "name": "ITC",                 "sector": "FMCG"},
+  {"symbol": "LT",         "name": "Larsen & Toubro",     "sector": "Infrastructure"},
+  {"symbol": "BHARTIARTL", "name": "Bharti Airtel",       "sector": "Telecom"},
+  {"symbol": "SUNPHARMA",  "name": "Sun Pharma",          "sector": "Pharma"},
+  {"symbol": "ASIANPAINT", "name": "Asian Paints",        "sector": "Paints"},
+  {"symbol": "TITAN",      "name": "Titan",               "sector": "Consumer"},
+  {"symbol": "TRENT",      "name": "Trent",               "sector": "Retail"},
+  {"symbol": "DIXON",      "name": "Dixon Technologies",  "sector": "Electronics"},
+  {"symbol": "POLYCAB",    "name": "Polycab India",       "sector": "Cables"},
+  {"symbol": "PERSISTENT", "name": "Persistent Systems",  "sector": "IT"},
+  {"symbol": "BEL",        "name": "Bharat Electronics",  "sector": "Defence"},
+  {"symbol": "IRCTC",      "name": "IRCTC",               "sector": "Travel"},
+  {"symbol": "SUZLON",     "name": "Suzlon Energy",       "sector": "Renewables"},
+  {"symbol": "YESBANK",    "name": "Yes Bank",            "sector": "Banking"},
+  {"symbol": "IDEA",       "name": "Vodafone Idea",       "sector": "Telecom"}
+]

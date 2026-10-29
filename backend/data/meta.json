@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-10-29T23:13:32",
+  "counts": {
+    "high": 29,
+    "medium": 134,
+    "low": 121
+  },
+  "filings": 284,
+  "by_rules": 173,
+  "ai_calls": 0,
+  "cache_hits": 0
+}

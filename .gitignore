@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+backend/data/llm_cache/
+backend/data/pdf_cache/
+backend/data/research/_pages/
+WRITEUP_DRAFT.md
