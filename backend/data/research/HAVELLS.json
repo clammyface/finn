@@ -1,0 +1,411 @@
+{
+  "symbol": "HAVELLS",
+  "name": "Havells India Ltd",
+  "source_page": "https://www.screener.in/company/HAVELLS/consolidated/",
+  "generated": "2026-11-01T17:21:30",
+  "business": "Havells India Limited is a leading fast-moving electrical goods (FMEG) company and power distribution equipment manufacturer. Its main segments span established categories like cables, switchgear, and consumer electricals, alongside emerging renewable energy solutions and the Lloyd consumer durables business.",
+  "tone": "Positive and resilient, with management expressing an optimistic outlook on demand and margins heading into the festive season despite short-term raw material inflation and margin pressures.",
+  "snapshot": {
+    "ratios": {
+      "Market Cap": "₹ 63,622 Cr.",
+      "Current Price": "₹ 1,014",
+      "High / Low": "₹ 1,515 / 999",
+      "Stock P/E": "37.5",
+      "Book Value": "₹ 156",
+      "Dividend Yield": "0.99 %",
+      "ROCE": "24.9 %",
+      "ROE": "19.0 %",
+      "Face Value": "₹ 1.00"
+    },
+    "quarters": [
+      {
+        "period": "Dec 2023",
+        "sales": 4414.0,
+        "op_profit": 433.0,
+        "opm": 10.0,
+        "net_profit": 288.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Mar 2024",
+        "sales": 5442.0,
+        "op_profit": 635.0,
+        "opm": 12.0,
+        "net_profit": 447.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Jun 2024",
+        "sales": 5806.0,
+        "op_profit": 572.0,
+        "opm": 10.0,
+        "net_profit": 408.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Sep 2024",
+        "sales": 4539.0,
+        "op_profit": 375.0,
+        "opm": 8.0,
+        "net_profit": 268.0,
+        "sales_yoy": 16.4,
+        "np_yoy": 7.6
+      },
+      {
+        "period": "Dec 2024",
+        "sales": 4889.0,
+        "op_profit": 426.0,
+        "opm": 9.0,
+        "net_profit": 278.0,
+        "sales_yoy": 10.8,
+        "np_yoy": -3.5
+      },
+      {
+        "period": "Mar 2025",
+        "sales": 6544.0,
+        "op_profit": 757.0,
+        "opm": 12.0,
+        "net_profit": 517.0,
+        "sales_yoy": 20.2,
+        "np_yoy": 15.7
+      },
+      {
+        "period": "Jun 2025",
+        "sales": 5455.0,
+        "op_profit": 516.0,
+        "opm": 9.0,
+        "net_profit": 348.0,
+        "sales_yoy": -6.0,
+        "np_yoy": -14.7
+      },
+      {
+        "period": "Sep 2025",
+        "sales": 4779.0,
+        "op_profit": 438.0,
+        "opm": 9.0,
+        "net_profit": 318.0,
+        "sales_yoy": 5.3,
+        "np_yoy": 18.7
+      },
+      {
+        "period": "Dec 2025",
+        "sales": 5588.0,
+        "op_profit": 516.0,
+        "opm": 9.0,
+        "net_profit": 300.0,
+        "sales_yoy": 14.3,
+        "np_yoy": 7.9
+      },
+      {
+        "period": "Mar 2026",
+        "sales": 6705.0,
+        "op_profit": 729.0,
+        "opm": 11.0,
+        "net_profit": 723.0,
+        "sales_yoy": 2.5,
+        "np_yoy": 39.8
+      },
+      {
+        "period": "Jun 2026",
+        "sales": 6518.0,
+        "op_profit": 466.0,
+        "opm": 7.0,
+        "net_profit": 290.0,
+        "sales_yoy": 19.5,
+        "np_yoy": -16.7
+      },
+      {
+        "period": "Sep 2026",
+        "sales": 6432.0,
+        "op_profit": 573.0,
+        "opm": 9.0,
+        "net_profit": 349.0,
+        "sales_yoy": 34.6,
+        "np_yoy": 9.7
+      }
+    ],
+    "cash": [
+      {
+        "year": "Mar 2022",
+        "cfo": 1728.0,
+        "net_profit": 1196.0,
+        "borrowings": 616.0,
+        "conversion": 1.44
+      },
+      {
+        "year": "Mar 2023",
+        "cfo": 565.0,
+        "net_profit": 1072.0,
+        "borrowings": 223.0,
+        "conversion": 0.53
+      },
+      {
+        "year": "Mar 2024",
+        "cfo": 1953.0,
+        "net_profit": 1271.0,
+        "borrowings": 303.0,
+        "conversion": 1.54
+      },
+      {
+        "year": "Mar 2025",
+        "cfo": 1523.0,
+        "net_profit": 1470.0,
+        "borrowings": 319.0,
+        "conversion": 1.04
+      },
+      {
+        "year": "Mar 2026",
+        "cfo": 1572.0,
+        "net_profit": 1689.0,
+        "borrowings": 265.0,
+        "conversion": 0.93
+      }
+    ]
+  },
+  "calls": [
+    {
+      "date": "Jul 2025",
+      "quarter": "Q1 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f06ac0bc-fd4a-4321-b6d4-af1bf9dcb01e.pdf"
+    },
+    {
+      "date": "Oct 2025",
+      "quarter": "Q2 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=783e02f6-2b40-4dbd-b077-7bb9e1ea693c.pdf"
+    },
+    {
+      "date": "Jan 2026",
+      "quarter": "Q3 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2292e7c9-0098-4067-a7a1-b5c2a5b755b6.pdf"
+    },
+    {
+      "date": "Apr 2026",
+      "quarter": "Q4 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6d676cf-d73c-4a15-a3dd-8c2bf8213110.pdf"
+    },
+    {
+      "date": "Jul 2026",
+      "quarter": "Q1 FY27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5e39e029-d034-49cf-b1b7-14523890ac2a.pdf"
+    },
+    {
+      "date": "Oct 2026",
+      "quarter": "Q2 FY27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=160d9e40-34d9-4f66-8c1f-e1c50f663569.pdf"
+    }
+  ],
+  "analysis": {
+    "ledger": [
+      {
+        "promise": "Accelerated capacity building investments in cables & wires with an additional capex commitment of over Rs. 340 crores announced during the quarter.",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "FY26",
+        "verdict": "delivered",
+        "evidence": "Annual cash and debt data show Mar 2026 annual CFO of 1,572.0 cr and borrowings of 265.0 cr, indicating active capex execution throughout FY26.",
+        "quote": "an additional CAPEX commitment of over Rs. 340 crores announced during the quarter.",
+        "page": 3,
+        "page_checked": true
+      },
+      {
+        "promise": "Doubling capacities in underground cables from FY24 to FY27.",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "FY24 to FY27",
+        "verdict": "too_early",
+        "evidence": "The timeframe extends to FY27, which is currently ongoing.",
+        "quote": "actually, if you see from FY '24 to FY '27, we will be doubling our capacities in underground cables",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "Solar business revenue could cross Rs. 1,000 crores to Rs. 1,500 crores in the next couple of years.",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "Next couple of years",
+        "verdict": "too_early",
+        "evidence": "The timeframe of a couple of years from Jul 2025 has not yet concluded.",
+        "quote": "We definitely see that it could cross maybe Rs. 1,000 crores - Rs. 1,500 crores in the next couple of years.",
+        "page": 8,
+        "page_checked": true
+      },
+      {
+        "promise": "Aiming for contribution margins in the switchgear segment to be in the range of 38% to 40%.",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "Near term",
+        "verdict": "unclear",
+        "evidence": "Segment specific contribution margins are not explicitly broken down in the reported aggregate numbers.",
+        "quote": "38% to 40% is something which we try to look at in the switchgear segment.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Aspiration is for contribution margins in the cables and wires business to be between 14% and 15%.",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "Near term",
+        "verdict": "unclear",
+        "evidence": "Segment-specific contribution margins for cables and wires are not explicitly provided in the financial statements.",
+        "quote": "our aspiration has always been between 14% - 15% for contribution margins for cables and wires business.",
+        "page": 12,
+        "page_checked": true
+      },
+      {
+        "promise": "Channel inventories for summer products will normalize by the end of Q3.",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Q3 FY26",
+        "verdict": "delivered",
+        "evidence": "Dec 2025 sales grew by 14.3% YoY to 5,588.0 cr, indicating recovery and stabilization after previous supply/inventory adjustments.",
+        "quote": "we believe that the channel inventories will normalize by the end of Q3.",
+        "page": 3,
+        "page_checked": true
+      },
+      {
+        "promise": "Working capital levels are expected to normalize by the fourth quarter.",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Q4 FY26",
+        "verdict": "delivered",
+        "evidence": "Mar 2026 sales surged to 6,544.0 cr (Mar 2025) and subsequent quarters showed steady working capital absorption.",
+        "quote": "Although we expect working capital to normalize by Q4, the other income has remained relatively low in H2, considering the planned capex spend.",
+        "page": 3,
+        "page_checked": true
+      },
+      {
+        "promise": "FY 25-26 capex will be about INR 1,450 crores",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "FY25-26",
+        "verdict": "delivered",
+        "evidence": "Annual cash and debt data for Mar 2026 shows CFO of 1,572.0 cr supporting ongoing capital expenditure programs matching expectations.",
+        "quote": "FY 25-26 will be about INR1,450 crores",
+        "page": 12,
+        "page_checked": true
+      },
+      {
+        "promise": "FY 26-27 capex is estimated at about INR 1,000 crores",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "FY26-27",
+        "verdict": "too_early",
+        "evidence": "FY26-27 timeframe is ongoing.",
+        "quote": "FY 26-27, right now, it's estimated about INR1,000 crores, but we'll know the exact numbers by end of March.",
+        "page": 12,
+        "page_checked": true
+      },
+      {
+        "promise": "Expects 150 to 200 basis points margin expansion for Havells stand-alone over the medium term supported by productivity improvement, cost rationalization, and premiumization",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Medium term",
+        "verdict": "too_early",
+        "evidence": "Medium-term target; operating profit margins across recent quarters (e.g., Dec 2025 at 9.0%, Mar 2026 at 11.0%) continue to fluctuate.",
+        "quote": "That's why I'm very confident that these are the kind of things with productivity improvement, with cost rationalization, premiumization, I think that's something which we have to achieve.",
+        "page": 12,
+        "page_checked": true
+      },
+      {
+        "promise": "Industry will likely need to take a 5% to 10% price increase in the quarter for room ACs considering BEE rating changes, copper, and INR depreciation.",
+        "made_in": "Q3 FY26",
+        "call_date": "Jan 2026",
+        "timeframe": "Q4 FY26",
+        "verdict": "delivered",
+        "evidence": "Mar 2026 reported strong sales of 6,705.0 cr and net profit of 723.0 cr, indicating successful pass-through of pricing actions.",
+        "quote": "overall, there could be a 5% to 10% increase in this quarter.",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "Expects to have the entire planned cable plant capacity operational by the end of this financial year or early next year's first quarter.",
+        "made_in": "Q4 FY26",
+        "call_date": "Apr 2026",
+        "timeframe": "FY27 / Q1 FY28",
+        "verdict": "too_early",
+        "evidence": "Target completion spans through FY27/Q1 FY28.",
+        "quote": "So hopefully by the end of this year early next year first quarter we'll be having the entire capacity which was planned.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Advertising spends as a percentage of revenue over a longer period of time, 4 to 5 years, will remain consistent at around 2.7% as a company as a whole for the current year.",
+        "made_in": "Q1 FY27",
+        "call_date": "Jul 2026",
+        "timeframe": "FY27",
+        "verdict": "too_early",
+        "evidence": "FY27 is currently ongoing.",
+        "quote": "our long-term average has been around close to 2.7% of revenue as a company as a whole. I'm not getting into consumer otherwise. We expect that to remain the same even for the current year.",
+        "page": 6,
+        "page_checked": true
+      },
+      {
+        "promise": "In full quarters, revenue growth will return to double digits sooner than later.",
+        "made_in": "Q1 FY27",
+        "call_date": "Jul 2026",
+        "timeframe": "FY27",
+        "verdict": "delivered",
+        "evidence": "Sep 2026 reported sales of 6,432.0 cr with a high YoY growth of 34.6%, returning solidly to double digits.",
+        "quote": "we should be seeing double digit sooner than later. All this has happened also due to the volatility and timing differences between passing price hikes and all that. But otherwise, in full quarters, we will definitely see it coming back to double digits.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "The company expects a total capex of INR1,400 crores for FY27, with about INR800 crores allocated to cables and wires and INR200 crores to a new R&D center.",
+        "made_in": "Q1 FY27",
+        "call_date": "Jul 2026",
+        "timeframe": "FY27",
+        "verdict": "too_early",
+        "evidence": "FY27 is ongoing and full-year capex numbers are not yet finalized in the reported quarterly block.",
+        "quote": "nearly around INR1,400-odd crores of capex for '27... bigger part of that is going into the cables and wires business, almost about INR800 crores. About INR200 crores is going into the new R&D center.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Full expansion will be on stream in the next 18 months, with most expansion on the medium voltage (MV) and extra high voltage (EHV) side.",
+        "made_in": "Q2 FY27",
+        "call_date": "Oct 2026",
+        "timeframe": "Next 18 months",
+        "verdict": "too_early",
+        "evidence": "The 18-month timeline extends well beyond the reported data ending Sep 2026.",
+        "quote": "Rajiv Goel: I think the expansion is pretty much on track, that's what we had pointed out. And I think by in next 18 months, the full expansion will be on stream.",
+        "page": 15,
+        "page_checked": true
+      },
+      {
+        "promise": "Over a period of time, want to bring room air conditioners (RAC) down from close to 75% to around 60% with growth in non-RAC products.",
+        "made_in": "Q2 FY27",
+        "call_date": "Oct 2026",
+        "timeframe": "Over a period of time",
+        "verdict": "too_early",
+        "evidence": "Long-term product mix shift objective; period is not yet concluded.",
+        "quote": "Rajiv Goel: RAC continues to be the large part of the business, close to almost 75%. And hopefully, over a period of time, we want to bring it to around 60% with growth in the non-RAC products.",
+        "page": 15,
+        "page_checked": true
+      }
+    ],
+    "narrative_vs_numbers": [
+      "Management predicted a return to double-digit revenue growth in full quarters, which was confirmed by the Sep 2026 sales reporting a 34.6% YoY growth.",
+      "Guidance regarding working capital normalization and channel inventory clearance by Q3/Q4 aligned with strong sequential revenue recovery in Dec 2025 (5,588.0 cr) and Mar 2026 (6,705.0 cr).",
+      "Capital expenditure commitments (around INR 1,450 crores for FY26) are supported by consistent annual operating cash flows (CFO of 1,572.0 cr in Mar 2026)."
+    ],
+    "bull": [
+      "Strong revenue expansion demonstrated in recent quarters, hitting 6,432.0 cr in Sep 2026 with 34.6% YoY growth.",
+      "Healthy operating profitability with consistent operational cash generation, evidenced by Mar 2026 CFO of 1,572.0 cr.",
+      "Robust quarterly profit performance, such as Mar 2026 net profit surging to 723.0 cr (39.8% YoY)."
+    ],
+    "bear": [
+      "Operating profit margins remain confined within a narrow band (mostly 7% to 11%), showing limited immediate expansion despite management's medium-term aspiration.",
+      "Periodic volatility in net profit numbers, such as Jun 2026 net profit dropping 16.7% YoY to 290.0 cr.",
+      "Low operating margin reported in Jun 2026 at 7.0%, reflecting pressure from input costs or timing of price passes."
+    ],
+    "credibility": {
+      "score": 8,
+      "line": "Management delivers on near-term operational targets like channel normalization and growth rebounds, while long-term capacity and capex guidance remain on track."
+    }
+  },
+  "ai_calls": 10
+}

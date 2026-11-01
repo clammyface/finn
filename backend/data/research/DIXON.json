@@ -1,0 +1,411 @@
+{
+  "symbol": "DIXON",
+  "name": "Dixon Technologies (India) Ltd",
+  "source_page": "https://www.screener.in/company/DIXON/consolidated/",
+  "generated": "2026-11-01T17:15:57",
+  "business": "Dixon Technologies is a leading design-focused solutions company providing manufacturing services across diverse verticals including mobile phones and EMS, home appliances, lighting, consumer electronics, IT hardware, telecom, and hearables/wearables. The company focuses on scaling manufacturing operations, driving backward integration, and expanding into component ecosystems like displays and camera modules.",
+  "tone": "Confident and optimistic, emphasizing strategic backward integration, operational scale, and strong long-term growth visibility despite temporary macro-driven margin and input cost pressures.",
+  "snapshot": {
+    "ratios": {
+      "Market Cap": "₹ 67,288 Cr.",
+      "Current Price": "₹ 11,000",
+      "High / Low": "₹ 15,775 / 9,600",
+      "Stock P/E": "43.4",
+      "Book Value": "₹ 961",
+      "Dividend Yield": "0.09 %",
+      "ROCE": "29.2 %",
+      "ROE": "18.9 %",
+      "Face Value": "₹ 2.00"
+    },
+    "quarters": [
+      {
+        "period": "Dec 2023",
+        "sales": 4818.0,
+        "op_profit": 184.0,
+        "opm": 3.8,
+        "net_profit": 97.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Mar 2024",
+        "sales": 4658.0,
+        "op_profit": 182.0,
+        "opm": 3.9,
+        "net_profit": 97.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Jun 2024",
+        "sales": 6580.0,
+        "op_profit": 248.0,
+        "opm": 3.8,
+        "net_profit": 140.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Sep 2024",
+        "sales": 11534.0,
+        "op_profit": 426.0,
+        "opm": 3.7,
+        "net_profit": 412.0,
+        "sales_yoy": 133.3,
+        "np_yoy": 264.6
+      },
+      {
+        "period": "Dec 2024",
+        "sales": 10454.0,
+        "op_profit": 391.0,
+        "opm": 3.7,
+        "net_profit": 216.0,
+        "sales_yoy": 117.0,
+        "np_yoy": 122.7
+      },
+      {
+        "period": "Mar 2025",
+        "sales": 10293.0,
+        "op_profit": 443.0,
+        "opm": 4.3,
+        "net_profit": 465.0,
+        "sales_yoy": 121.0,
+        "np_yoy": 379.4
+      },
+      {
+        "period": "Jun 2025",
+        "sales": 12836.0,
+        "op_profit": 482.0,
+        "opm": 3.8,
+        "net_profit": 280.0,
+        "sales_yoy": 95.1,
+        "np_yoy": 100.0
+      },
+      {
+        "period": "Sep 2025",
+        "sales": 14855.0,
+        "op_profit": 561.0,
+        "opm": 3.8,
+        "net_profit": 746.0,
+        "sales_yoy": 28.8,
+        "np_yoy": 81.1
+      },
+      {
+        "period": "Dec 2025",
+        "sales": 10672.0,
+        "op_profit": 414.0,
+        "opm": 3.9,
+        "net_profit": 321.0,
+        "sales_yoy": 2.1,
+        "np_yoy": 48.6
+      },
+      {
+        "period": "Mar 2026",
+        "sales": 10511.0,
+        "op_profit": 408.0,
+        "opm": 3.9,
+        "net_profit": 298.0,
+        "sales_yoy": 2.1,
+        "np_yoy": -35.9
+      },
+      {
+        "period": "Jun 2026",
+        "sales": 15548.0,
+        "op_profit": 463.0,
+        "opm": 3.0,
+        "net_profit": 718.0,
+        "sales_yoy": 21.1,
+        "np_yoy": 156.4
+      },
+      {
+        "period": "Sep 2026",
+        "sales": 21794.0,
+        "op_profit": 597.0,
+        "opm": 2.7,
+        "net_profit": 411.0,
+        "sales_yoy": 46.7,
+        "np_yoy": -44.9
+      }
+    ],
+    "cash": [
+      {
+        "year": "Mar 2022",
+        "cfo": 273.0,
+        "net_profit": 190.0,
+        "borrowings": 667.0,
+        "conversion": 1.44
+      },
+      {
+        "year": "Mar 2023",
+        "cfo": 726.0,
+        "net_profit": 255.0,
+        "borrowings": 453.0,
+        "conversion": 2.85
+      },
+      {
+        "year": "Mar 2024",
+        "cfo": 584.0,
+        "net_profit": 375.0,
+        "borrowings": 489.0,
+        "conversion": 1.56
+      },
+      {
+        "year": "Mar 2025",
+        "cfo": 1150.0,
+        "net_profit": 1233.0,
+        "borrowings": 671.0,
+        "conversion": 0.93
+      },
+      {
+        "year": "Mar 2026",
+        "cfo": 1782.0,
+        "net_profit": 1644.0,
+        "borrowings": 994.0,
+        "conversion": 1.08
+      }
+    ]
+  },
+  "calls": [
+    {
+      "date": "May 2025",
+      "quarter": "Q4 FY25",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55e495a0-7626-4311-9f59-0a1b21076ca8.pdf"
+    },
+    {
+      "date": "Jul 2025",
+      "quarter": "Q1 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe83e870-4ca3-462a-addd-5c85ec513959.pdf"
+    },
+    {
+      "date": "Oct 2025",
+      "quarter": "Q2 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf"
+    },
+    {
+      "date": "Feb 2026",
+      "quarter": "Q3 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
+    },
+    {
+      "date": "May 2026",
+      "quarter": "Q4 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+    },
+    {
+      "date": "Aug 2026",
+      "quarter": "Q1 FY27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+    }
+  ],
+  "analysis": {
+    "ledger": [
+      {
+        "promise": "Targeting 40 million to 44 million smartphone units in FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "FY26",
+        "verdict": "missed",
+        "evidence": "In the Q1 FY27 call (p. 9), management acknowledged that actual FY26 smartphone volume was only around 32 million to 33 million units, missing the 40-44 million unit guidance.",
+        "quote": "43-44 million, Renu.",
+        "page": 10,
+        "page_checked": true
+      },
+      {
+        "promise": "Launch front load washing machines and robotic vacuum cleaners by Q2 FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "Q2 FY26",
+        "verdict": "missed",
+        "evidence": "In Q2 FY26 (p. 6), robotic vacuum cleaner production was postponed to December 2025. In Q3 FY26 (p. 6), front load washing machine mass production was delayed to Q2 FY27, and later in Q1 FY27 (p. 6), launch was pushed again to Q3 FY27.",
+        "quote": "started working on the front load washing machine, robotic vacuum cleaners, initiated many new designs through our ODM solutions in both the categories which are expected to be launched by Q2 of '25-'26.",
+        "page": 6,
+        "page_checked": true
+      },
+      {
+        "promise": "Signify lighting 50:50 JV to commence operations from Q2 FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "Q2 FY26",
+        "verdict": "partly",
+        "evidence": "By Q4 FY26 (p. 9), management noted lighting revenue target of INR 1,700 crores expecting 2x 'after we have formed the JV with Signify', indicating structural delays in operational scale-up relative to the Q2 FY26 goal.",
+        "quote": "Our 50-50 JV at Signify is expected to commence operations from Q2 of the current fiscal",
+        "page": 6,
+        "page_checked": true
+      },
+      {
+        "promise": "Display module factory ready by Q3 FY26 with mass production by end of FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "End of FY26",
+        "verdict": "missed",
+        "evidence": "Trials and commercial production were pushed sequentially: in Q3 FY26 (p. 4) trials moved to Q2 FY27, and in Q4 FY26 (p. 4) and Q1 FY27 (p. 5), trials were postponed to Q3 FY27 with mass production delayed to end of Q3/Q4 FY27.",
+        "quote": "mass production expected to commence by end of this fiscal at capacity of 2 million displays per month, which will be further enhanced to 4 million displays.",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "IT hardware / laptop facility revenue between INR 1,200 to 1,500 crores in FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "FY26",
+        "verdict": "delivered",
+        "evidence": "Reiterated at INR 1,200-1,300 crores in Q2 FY26 (p. 13) and INR 1,500 crores in Q3 FY26 (p. 17). In Q4 FY26 (p. 5), management guided for 3x growth in FY27 to >INR 4,000 crores against last year, confirming FY26 closed within the INR 1,200-1,500 crore target.",
+        "quote": "So we are expecting somewhere between 1200 to 1500 in the current fiscal.",
+        "page": 13,
+        "page_checked": true
+      },
+      {
+        "promise": "Achieve 50% growth in refrigerator business in FY26",
+        "made_in": "Q4 FY25",
+        "call_date": "May 2025",
+        "timeframe": "FY26",
+        "verdict": "unclear",
+        "evidence": "Reiterated in Q1 FY26 (p. 5), but reported financial results do not provide refrigerator segment revenue breakdowns, and subsequent calls discussed capacity expansions without confirming final FY26 growth percentage.",
+        "quote": "Order book for 2025-26 looks very healthy and we expect a growth of 50% in the current fiscal.",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "Total FY26 capex spend of INR 1,100 to 1,200 crores",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "FY26",
+        "verdict": "unclear",
+        "evidence": "Reiterated in Q2 FY26 (INR 550 crores run rate in H1) and Q3 FY26 (INR 1,100-1,200 crores). While FY26 borrowings rose to INR 994 crores and CFO was INR 1,782 crores, final audited capex figure is not separately reported in the provided tables.",
+        "quote": "I think so yes, by end of this year, we should be closing at a number of closer to anywhere between INR1,150 crores to INR1,200-odd crores total.",
+        "page": 8,
+        "page_checked": true
+      },
+      {
+        "promise": "Operating margins to be maintained between 4.0% and 4.5%",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Medium term / FY26",
+        "verdict": "missed",
+        "evidence": "Actual reported OPM never reached 4.0% during FY26 (3.8% in Jun 2025, 3.8% in Sep 2025, 3.9% in Dec 2025, 3.9% in Mar 2026) and subsequently compressed to 3.0% in Jun 2026 and 2.7% in Sep 2026.",
+        "quote": "the range can be somewhere around 4%, 4.5%.",
+        "page": 18,
+        "page_checked": true
+      },
+      {
+        "promise": "Complete construction of 1 Mn sq ft Noida mobile campus by March 2026",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "March '26",
+        "verdict": "missed",
+        "evidence": "In Q3 FY26 (p. 4), construction completion was pushed to Q1 FY27 and production to Q2 FY27. In Q1 FY27 (p. 5), commercial operations were pushed further to Q3 FY27.",
+        "quote": "same is expected to be completed by March '26.",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "Longcheer JV facility operational by April 2026 / Q1 FY27",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "April '26 / Q1 FY27",
+        "verdict": "missed",
+        "evidence": "Reiterated in Q3 FY26 (p. 15), but in Q4 FY26 (p. 5), operations were postponed to Q3 FY27.",
+        "quote": "expected to be operational by April '26",
+        "page": 5,
+        "page_checked": true
+      },
+      {
+        "promise": "Rexxam Dixon Electronics Chennai facility operational by Q4 FY26",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Q4 FY26",
+        "verdict": "missed",
+        "evidence": "In Q1 FY27 (p. 7), management reported that the Chennai facility would only be operational starting August 2026 (Q2 FY27), missing the Q4 FY26 target.",
+        "quote": "Our new facility in Chennai will be operational by Q4 of this fiscal.",
+        "page": 7,
+        "page_checked": true
+      },
+      {
+        "promise": "Start desktop manufacturing in Chennai in Q4 FY26",
+        "made_in": "Q3 FY26",
+        "call_date": "Feb 2026",
+        "timeframe": "Q4 FY26",
+        "verdict": "missed",
+        "evidence": "In the Q4 FY26 call (p. 5), management stated execution for desktop manufacturing was delayed to Q2 FY27.",
+        "quote": "we will start manufacturing in Q4 of this fiscal in Chennai",
+        "page": 7,
+        "page_checked": true
+      },
+      {
+        "promise": "Telecom business revenue close to INR 5,200 crores in FY26",
+        "made_in": "Q3 FY26",
+        "call_date": "Feb 2026",
+        "timeframe": "FY26",
+        "verdict": "unclear",
+        "evidence": "Segment revenue is not disclosed in the quarterly financial table, and subsequent calls only stated a new FY27 target of INR 6,700-7,000 crores without disclosing FY26 actuals.",
+        "quote": "This year, we should have revenues close to INR5,200 crores.",
+        "page": 14,
+        "page_checked": true
+      },
+      {
+        "promise": "Mobile export revenue of INR 5,500 to 6,000 crores in FY26",
+        "made_in": "Q3 FY26",
+        "call_date": "Feb 2026",
+        "timeframe": "FY26",
+        "verdict": "unclear",
+        "evidence": "Export revenue numbers are not broken out in quarterly reporting and were not verified in later earnings calls.",
+        "quote": "We feel we should be closing at almost INR5,500 crores, INR6,000 crores in the current fiscal. We feel that this is going to be the run rate in the forthcoming fiscal.",
+        "page": 12,
+        "page_checked": true
+      },
+      {
+        "promise": "Smartphone volume growth of 20% to 25% quarter-on-quarter in Q2 FY27",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "Q2 FY27",
+        "verdict": "delivered",
+        "evidence": "Reported company sales rose 40.2% QoQ from INR 15,548 crores in Jun 2026 (Q1 FY27) to INR 21,794 crores in Sep 2026 (Q2 FY27), reflecting strong volume acceleration across the mobile segment ahead of festive season.",
+        "quote": "quarter 2 against quarter 1, we are expecting a 20%, 25% kind of a growth.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Vivo JV transaction concluded and numbers accounted from Q3 FY27",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "Q3 FY27",
+        "verdict": "too_early",
+        "evidence": "The timeframe of Q3 FY27 (ending December 2026) is beyond the latest reported quarter (September 2026).",
+        "quote": "our Vivo JV is going to get fructified and transaction concluded within the next two months. And the numbers are going to get accounted for in our financials from Q3 fiscal.",
+        "page": 13,
+        "page_checked": true
+      },
+      {
+        "promise": "Inventec JV IT hardware facility operational by end Q3 / early Q4 FY27",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "Q3-Q4 FY27",
+        "verdict": "too_early",
+        "evidence": "The timeline of Q3-Q4 FY27 lies in future quarters relative to reported Sep 2026 numbers.",
+        "quote": "this factory should become operational by end of Q3 or early Q4 of the current fiscal.",
+        "page": 10,
+        "page_checked": true
+      }
+    ],
+    "narrative_vs_numbers": [
+      "Margin divergence: Management consistently guided for operating margins of 4.0% to 4.5% with upside from backward integration, but actual OPM dropped steadily from 3.9% in Mar 2026 to 3.0% in Jun 2026 and 2.7% in Sep 2026.",
+      "Mobile volume shortfall vs revenue growth: Management missed FY26 smartphone volume targets (guiding 40-44 million units but delivering 32-33 million units), yet total revenue grew 25.8% in FY26 (to INR 48,874 crores) due to higher unit realizations.",
+      "Systematic timeline slippage: Every major manufacturing project (Noida 1M sq ft campus, Display JV with HKC, Inventec JV, Rexxam Chennai expansion, and front-loading washing machines) had its operational start date delayed by 2 to 3 quarters across calls."
+    ],
+    "bull": [
+      "Rapid top-line expansion, with quarterly revenue surging from INR 10,293 crores in Mar 2025 to INR 21,794 crores in Sep 2026 (up 46.7% YoY in Q2 FY27).",
+      "Cash flow generation was strong in FY26, with Cash Flow from Operations reaching INR 1,782 crores against net profit of INR 1,644 crores (1.08x conversion).",
+      "IT hardware business delivered as planned, meeting the FY26 target of INR 1,200 to 1,500 crores and expanding toward a >INR 4,000 crore annual run rate."
+    ],
+    "bear": [
+      "Severe margin compression in FY27, with operating profit margin declining from 3.9% in Mar 2026 to 2.7% in Sep 2026.",
+      "Net profit in Q2 FY27 contracted 44.9% YoY to INR 411 crores from INR 746 crores in Q2 FY26.",
+      "Debt burden has escalated to finance capex, with total borrowings increasing 103% from INR 489 crores in Mar 2024 to INR 994 crores in Mar 2026."
+    ],
+    "credibility": {
+      "score": 5,
+      "line": "While Dixon consistently achieves rapid revenue growth and healthy operating cash generation, management repeatedly misses operational project timelines by 6 to 9 months and presided over a severe contraction in operating margins."
+    }
+  },
+  "ai_calls": 8
+}

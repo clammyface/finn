@@ -350,7 +350,10 @@ for batch in chunks(need, 20):
 # Save
 (DATA / "enriched.json").write_text(json.dumps(items, indent=2, ensure_ascii=False), encoding="utf-8")
 counts = {t: sum(1 for i in items if i["tier"] == t) for t in ("high", "medium", "low")}
-meta = {"as_of": datetime.now().isoformat(timespec="seconds"), "counts": counts,
+# "As of" is when the filings were fetched, so re-running enrichment later doesn't shift the time windows.
+src = DATA / "announcements.json"
+fetched = datetime.fromtimestamp(src.stat().st_mtime) if src.exists() else datetime.now()
+meta = {"as_of": fetched.isoformat(timespec="seconds"), "counts": counts,
         "filings": len(items), "by_rules": ruled, "ai_calls": STATS["calls"],
         "cache_hits": STATS["cached"]}
 (DATA / "meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")

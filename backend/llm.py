@@ -61,6 +61,8 @@ def ask(prompt, model=None, pdf_bytes=None, as_json=True, retries=4):
             print("  model returned bad JSON, retrying")
         except Exception as e:
             msg = str(e)
+            if "per day" in msg.lower():         # daily free quota used up: waiting won't help, let the caller fall back
+                raise
             if any(c in msg for c in ("429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE")):
                 wait = 30 * (attempt + 1)
                 print(f"  rate limited, waiting {wait}s")

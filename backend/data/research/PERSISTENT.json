@@ -1,0 +1,368 @@
+{
+  "symbol": "PERSISTENT",
+  "name": "Persistent Systems Ltd",
+  "source_page": "https://www.screener.in/company/PERSISTENT/consolidated/",
+  "generated": "2026-11-01T17:13:19",
+  "business": "Persistent Systems Limited is a digital engineering and technology services company that helps enterprises build and modernize software products for an AI-first world. Its main operating segments span Software, High-Tech and Emerging industries, Banking, Financial Services and Insurance, and Healthcare and Lifesciences.",
+  "tone": "Confident and optimistic regarding strong sequential growth, strategic positioning in AI-led engineering, and progress on the Nagarro acquisition.",
+  "snapshot": {
+    "ratios": {
+      "Market Cap": "₹ 1,00,296 Cr.",
+      "Current Price": "₹ 6,048",
+      "High / Low": "₹ 6,599 / 4,243",
+      "Stock P/E": "53.6",
+      "Book Value": "₹ 544",
+      "Dividend Yield": "0.66 %",
+      "ROCE": "34.4 %",
+      "ROE": "27.2 %",
+      "Face Value": "₹ 5.00"
+    },
+    "quarters": [
+      {
+        "period": "Dec 2023",
+        "sales": 2498.0,
+        "op_profit": 442.0,
+        "opm": 18.0,
+        "net_profit": 286.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Mar 2024",
+        "sales": 2591.0,
+        "op_profit": 454.0,
+        "opm": 18.0,
+        "net_profit": 315.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Jun 2024",
+        "sales": 2737.0,
+        "op_profit": 455.0,
+        "opm": 17.0,
+        "net_profit": 306.0,
+        "sales_yoy": null,
+        "np_yoy": null
+      },
+      {
+        "period": "Sep 2024",
+        "sales": 2897.0,
+        "op_profit": 481.0,
+        "opm": 17.0,
+        "net_profit": 325.0,
+        "sales_yoy": 20.1,
+        "np_yoy": 23.6
+      },
+      {
+        "period": "Dec 2024",
+        "sales": 3062.0,
+        "op_profit": 538.0,
+        "opm": 18.0,
+        "net_profit": 373.0,
+        "sales_yoy": 22.6,
+        "np_yoy": 30.4
+      },
+      {
+        "period": "Mar 2025",
+        "sales": 3242.0,
+        "op_profit": 584.0,
+        "opm": 18.0,
+        "net_profit": 396.0,
+        "sales_yoy": 25.1,
+        "np_yoy": 25.7
+      },
+      {
+        "period": "Jun 2025",
+        "sales": 3334.0,
+        "op_profit": 612.0,
+        "opm": 18.0,
+        "net_profit": 425.0,
+        "sales_yoy": 21.8,
+        "np_yoy": 38.9
+      },
+      {
+        "period": "Sep 2025",
+        "sales": 3581.0,
+        "op_profit": 683.0,
+        "opm": 19.0,
+        "net_profit": 471.0,
+        "sales_yoy": 23.6,
+        "np_yoy": 44.9
+      },
+      {
+        "period": "Dec 2025",
+        "sales": 3778.0,
+        "op_profit": 733.0,
+        "opm": 19.0,
+        "net_profit": 439.0,
+        "sales_yoy": 23.4,
+        "np_yoy": 17.7
+      },
+      {
+        "period": "Mar 2026",
+        "sales": 4056.0,
+        "op_profit": 768.0,
+        "opm": 19.0,
+        "net_profit": 529.0,
+        "sales_yoy": 25.1,
+        "np_yoy": 33.6
+      },
+      {
+        "period": "Jun 2026",
+        "sales": 4303.0,
+        "op_profit": 697.0,
+        "opm": 16.0,
+        "net_profit": 483.0,
+        "sales_yoy": 29.1,
+        "np_yoy": 13.6
+      },
+      {
+        "period": "Sep 2026",
+        "sales": 4664.0,
+        "op_profit": 633.0,
+        "opm": 14.0,
+        "net_profit": 352.0,
+        "sales_yoy": 30.2,
+        "np_yoy": -25.3
+      }
+    ],
+    "cash": [
+      {
+        "year": "Mar 2022",
+        "cfo": 845.0,
+        "net_profit": 690.0,
+        "borrowings": 578.0,
+        "conversion": 1.22
+      },
+      {
+        "year": "Mar 2023",
+        "cfo": 956.0,
+        "net_profit": 921.0,
+        "borrowings": 655.0,
+        "conversion": 1.04
+      },
+      {
+        "year": "Mar 2024",
+        "cfo": 1302.0,
+        "net_profit": 1093.0,
+        "borrowings": 451.0,
+        "conversion": 1.19
+      },
+      {
+        "year": "Mar 2025",
+        "cfo": 1157.0,
+        "net_profit": 1400.0,
+        "borrowings": 311.0,
+        "conversion": 0.83
+      },
+      {
+        "year": "Mar 2026",
+        "cfo": 1767.0,
+        "net_profit": 1865.0,
+        "borrowings": 477.0,
+        "conversion": 0.95
+      }
+    ]
+  },
+  "calls": [
+    {
+      "date": "Jul 2025",
+      "quarter": "Q1 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35397e08-8726-451b-aa02-a838a82bd45e.pdf"
+    },
+    {
+      "date": "Oct 2025",
+      "quarter": "Q2 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f38819d8-e17e-417b-960f-c192b4d17af5.pdf"
+    },
+    {
+      "date": "Jan 2026",
+      "quarter": "Q3 FY26",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf"
+    },
+    {
+      "date": "Apr 2026",
+      "quarter": "Q4 FY26",
+      "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf"
+    },
+    {
+      "date": "Aug 2026",
+      "quarter": "Q1 FY27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+    },
+    {
+      "date": "Oct 2026",
+      "quarter": "Q2 FY27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
+    }
+  ],
+  "analysis": {
+    "ledger": [
+      {
+        "promise": "Overall effective tax rate for FY26 to remain in the range of 22.5% to 23.5% (widened to 20%-24% in Q3 FY26)",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "FY26",
+        "verdict": "unclear",
+        "evidence": "FY26 concluded in March 2026, but the reported quarterly and annual financial statements do not provide tax expense or PBT breakdown to verify the actual effective tax rate.",
+        "quote": "We expect our overall effective tax rate for the year to remain in the range of 22.5% to 23.5% going forward.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Reach $2 billion in annual revenue / exit run rate by FY27 (March 2027)",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "FY27",
+        "verdict": "too_early",
+        "evidence": "FY27 ends in March 2027, whereas reported figures extend only through Q2 FY27 (Sep 2026, sales of Rs 4,664.0 crore). In Q4 FY26, management clarified this target to an exit run rate of ~$500 million in Q4 FY27.",
+        "quote": "We remain committed to our goal of reaching 2 billion dollars by end of FY27.",
+        "page": 13,
+        "page_checked": true
+      },
+      {
+        "promise": "Improve margins by 100 bps in FY26 and an additional 100 bps in FY27 (targeting 200-300 bps total improvement)",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "FY26 and FY27",
+        "verdict": "partly",
+        "evidence": "For FY26, OPM improved from 17.0%-18.0% in FY25 to 19.0% across Q2-Q4 FY26 (~100 bps expansion delivered). However, in FY27, margins contracted sharply to 16.0% in Q1 FY27 and 14.0% in Q2 FY27.",
+        "quote": "we are looking at 100 basis point improvement in FY26, and probably another 100 basis point in FY27",
+        "page": 19,
+        "page_checked": true
+      },
+      {
+        "promise": "Stock option (ESOP) cost reduction to remain flat for the next couple of quarters",
+        "made_in": "Q1 FY26",
+        "call_date": "Jul 2025",
+        "timeframe": "Next couple of quarters",
+        "verdict": "unclear",
+        "evidence": "Reported quarterly financial numbers do not disclose line-item breakdown for ESOP or stock option expenses.",
+        "quote": "Now, this will continue to remain flat for the next couple of quarters before you'll see further reduction.",
+        "page": 17,
+        "page_checked": true
+      },
+      {
+        "promise": "Utilization levels to remain comfortable between 83% to 85% for the next few quarters",
+        "made_in": "Q2 FY26",
+        "call_date": "Oct 2025",
+        "timeframe": "Next few quarters",
+        "verdict": "unclear",
+        "evidence": "Reported quarterly financial statements do not include operational metrics such as employee utilization rates.",
+        "quote": "the comfortable utilization position will be somewhere between 83 to 85%. At this point of time, at least for the next few quarters, we anticipate the utilization levels to remain pretty much at that rate.",
+        "page": 16,
+        "page_checked": true
+      },
+      {
+        "promise": "Reach long-term revenue aspiration of $5 billion by March 2031 (FY31)",
+        "made_in": "Q3 FY26",
+        "call_date": "Jan 2026",
+        "timeframe": "March 2031",
+        "verdict": "too_early",
+        "evidence": "Target date is March 2031 (FY31), which is well into the future.",
+        "quote": "laying the foundation of $5 billion by March 2031.",
+        "page": 6,
+        "page_checked": true
+      },
+      {
+        "promise": "Operational cash flow to PAT ratio to normalize in Q1 FY27 following decline due to unbilled revenue",
+        "made_in": "Q4 FY26",
+        "call_date": "Apr 2026",
+        "timeframe": "Q1 FY27",
+        "verdict": "unclear",
+        "evidence": "Annual CFO to net profit conversion for FY26 closed at 0.95 (CFO Rs 1,767 crore vs net profit Rs 1,865 crore), but quarterly cash flow statements for Q1 FY27 are not provided.",
+        "quote": "This decline in Operational Cash Flow to PAT was primarily on account of higher proportion of unbilled revenue in this quarter, which we expect to normalize in the next quarter.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Net new deal to add roughly $125 million plus on an annual basis and $650 million plus total contract value over 6.5 years",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "6.5 years",
+        "verdict": "too_early",
+        "evidence": "The deal was announced in Q1 FY27 (Aug 2026) over a multi-year timeframe; subsequent numbers do not break down ACV/TCV realization by contract.",
+        "quote": "This is a net new deal which will add roughly about $125 million plus on an annual basis",
+        "page": 4,
+        "page_checked": true
+      },
+      {
+        "promise": "European business revenue contribution to reach 15%+ (22% combined with Nagarro)",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "Long-term",
+        "verdict": "too_early",
+        "evidence": "Reported quarterly financial numbers do not provide geographic revenue breakdown, and Nagarro deal closure is expected in Q4-CY26 or Q1-CY27.",
+        "quote": "We live to our dream of having European business at 15% plus. In fact, it's a very nice combination which gets us to 22% in Europe",
+        "page": 10,
+        "page_checked": true
+      },
+      {
+        "promise": "Reduce net debt over combined EBITDA leverage down to 1X by FY2030 following Nagarro transaction",
+        "made_in": "Q1 FY27",
+        "call_date": "Aug 2026",
+        "timeframe": "FY2030",
+        "verdict": "too_early",
+        "evidence": "The target horizon is FY2030.",
+        "quote": "at 50% plus 1 share to 100% [acceptance], it is expected to reduce down to 1X by FY2030.",
+        "page": 13,
+        "page_checked": true
+      },
+      {
+        "promise": "Nagarro deal closure expected by Q4-CY26 or Q1-CY27",
+        "made_in": "Q2 FY27",
+        "call_date": "Oct 2026",
+        "timeframe": "Q4-CY26 or Q1-CY27",
+        "verdict": "too_early",
+        "evidence": "The latest reported period is Q2 FY27 (quarter ending Sep 2026, which is Q3-CY26).",
+        "quote": "We expect the deal closure by Q4-CY26 or Q1-CY27.",
+        "page": 7,
+        "page_checked": true
+      },
+      {
+        "promise": "Incremental transaction costs of $25 to 30 million towards Nagarro over the next two quarters",
+        "made_in": "Q2 FY27",
+        "call_date": "Oct 2026",
+        "timeframe": "Next two quarters (Q3-Q4 FY27)",
+        "verdict": "too_early",
+        "evidence": "Stated in Oct 2026 for the following two quarters; results for Q3 and Q4 FY27 are not yet available.",
+        "quote": "Over the next two quarters, we expect an incremental amount ranging between USD 25 to 30 million to be incurred towards the Nagarro transaction.",
+        "page": 9,
+        "page_checked": true
+      },
+      {
+        "promise": "Endeavour and aspirational goal to maintain OPM in the 16% to 17% range in FY27",
+        "made_in": "Q2 FY27",
+        "call_date": "Oct 2026",
+        "timeframe": "FY27",
+        "verdict": "too_early",
+        "evidence": "Full FY27 results are pending. However, OPM was 16.0% in Q1 FY27 and dropped to 14.0% in Q2 FY27.",
+        "quote": "we want to be in the 16 to 17 % range, that is our aspiration. That will be our endeavour",
+        "page": 19,
+        "page_checked": true
+      }
+    ],
+    "narrative_vs_numbers": [
+      "Revenue growth narrative matches reported sales: top-line expanded rapidly from Rs 3,334.0 crore in Jun 2025 to Rs 4,664.0 crore in Sep 2026, sustaining YoY growth between 21.8% and 30.2%.",
+      "Margin commitments diverged significantly from execution in FY27: while management guided for 200-300 bps cumulative expansion towards FY27 and an aspiration of 16%-17%, OPM degraded from 19.0% in Mar 2026 to 16.0% in Jun 2026 and 14.0% in Sep 2026.",
+      "Management re-anchored the $2 billion target from full-year FY27 revenue to a Q4 FY27 exit run rate ($500 million/quarter plus or minus a quarter), softening the original annual milestone timeline.",
+      "Profitability narrative was disrupted in Q2 FY27: despite sales growing 30.2% YoY, net profit fell 25.3% YoY to Rs 352.0 crore, down from Rs 471.0 crore in Sep 2025."
+    ],
+    "bull": [
+      "Sustained quarterly revenue acceleration, with sales growing from Rs 3,334.0 crore in Jun 2025 to Rs 4,664.0 crore in Sep 2026 (30.2% YoY growth).",
+      "Strong operating cash flow generation in FY26, reaching Rs 1,767.0 crore compared to Rs 1,157.0 crore in FY25.",
+      "Delivered on initial FY26 margin improvement goal, raising operating margin to 19.0% across Q2, Q3, and Q4 FY26 compared to 17.0%-18.0% in FY25."
+    ],
+    "bear": [
+      "Operating margin collapsed to 14.0% in Sep 2026 from 19.0% in Mar 2026, falling well short of the guided 16%-17% range.",
+      "Net profit experienced severe contraction in Q2 FY27, declining 25.3% YoY to Rs 352.0 crore from Rs 471.0 crore in Q2 FY26.",
+      "Borrowings increased to Rs 477.0 crore in Mar 2026 from Rs 311.0 crore in Mar 2025, alongside looming transaction costs of $25-$30 million for the Nagarro acquisition."
+    ],
+    "credibility": {
+      "score": 6,
+      "line": "Management delivered strong top-line growth and met FY26 margin targets, but shifted the $2B revenue goal to an exit run rate and experienced sharp margin compression in early FY27."
+    }
+  },
+  "ai_calls": 8
+}

@@ -36,7 +36,8 @@
     "category": "results",
     "is_intimation": false,
     "priority": 90,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Asian Paints submitted an investor presentation filing."
   },
   {
     "id": "106834505",
@@ -49,7 +50,15 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 85,
-    "tier": "high"
+    "tier": "high",
+    "people": [
+      {
+        "name": "Noel N Tata",
+        "role": "Chairman",
+        "change": "retired"
+      }
+    ],
+    "summary": "Mr. Noel N Tata retired as Chairman of Trent Limited."
   },
   {
     "id": "106834504",
@@ -62,7 +71,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Trent Limited announced changes in its board of directors."
   },
   {
     "id": "106834503",
@@ -75,7 +86,21 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "people": [
+      {
+        "name": "Mr Rajiv Dube",
+        "role": "Non- Executive Director",
+        "change": "appointed",
+        "bio": "Rajiv Dube is an industry veteran with nearly 40 years of multi-sector experience, having served at the highest echelons of the TATA and Aditya Birla conglomerates. He is an engineer and a post-graduate in business management who rose from the shop floor of TATA Motors to President of its car business before serving as an Executive Director on the Group Board of the Aditya Birla conglomerate.",
+        "previous": [
+          "TATA Motors - President of car business",
+          "Aditya Birla conglomerate - Executive Director"
+        ],
+        "source": "https://experts.deakin.edu.au/53887-rajiv-dube"
+      }
+    ],
+    "summary": "Trent Limited appointed Mr. Rajiv Dube as Non-Executive Director effective October 30, 2026."
   },
   {
     "id": "106834506",
@@ -88,7 +113,18 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "people": [
+      {
+        "name": "Mrs Kalpana Merchant",
+        "role": "Non- Executive Independent Director",
+        "change": "appointed",
+        "bio": null,
+        "previous": [],
+        "source": null
+      }
+    ],
+    "summary": "Trent Limited appointed Mrs. Kalpana Merchant as Non-Executive Independent Director effective October 30, 2026."
   },
   {
     "id": "106834466",
@@ -98,11 +134,35 @@
     "details": "Trent Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Press Release on Unaudited Financial Results (Standalone and Consolidated) for thesecond quarter and half-year ended 30th September 2026\".",
     "time": "2026-10-29T16:21:37",
     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026162053_PressReleaseOct2026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "Rs Cr",
+      "label": "Sep 30 2026",
+      "current": {
+        "revenue": 5873,
+        "ebitda": null,
+        "pbt": null,
+        "pat": 468
+      },
+      "qoq": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "yoy": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "ebitda_margin": null
+    },
+    "summary": "Trent Limited issued a press release on its financial results for the quarter and half-year ended September 30, 2026."
   },
   {
     "id": "106834446",
@@ -115,7 +175,8 @@
     "category": "results",
     "is_intimation": false,
     "priority": 90,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Trent Limited submitted an investor presentation filing."
   },
   {
     "id": "106834418",
@@ -125,11 +186,11 @@
     "details": "Trent Limited has submitted to the Exchange about Outcome of Board Meeting held today i.e. 29th October 2026",
     "time": "2026-10-29T16:08:05",
     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_29102026160446_DraftOutcomeofBM.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Trent Limited disclosed the outcome of its board meeting held on October 29, 2026."
   },
   {
     "id": "106834353",
@@ -139,11 +200,35 @@
     "details": "Suzlon Energy Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "time": "2026-10-29T15:51:45",
     "pdf": "https://nsearchives.nseindia.com/corporate/SUZLON1_29102026154942_Suzlon29102026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "in crores",
+      "label": "September 30, 2026",
+      "current": {
+        "revenue": 4869.05,
+        "ebitda": 719.82,
+        "pbt": 518.21,
+        "pat": 394.15
+      },
+      "qoq": {
+        "revenue": 27.5,
+        "ebitda": 20.9,
+        "pbt": 33.1,
+        "pat": 29.1
+      },
+      "yoy": {
+        "revenue": 26.0,
+        "ebitda": -0.1,
+        "pbt": -7.9,
+        "pat": -69.2
+      },
+      "ebitda_margin": 14.8
+    },
+    "summary": "Suzlon Energy released its financial results for the period ended September 30, 2026."
   },
   {
     "id": "106834249",
@@ -168,9 +253,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/INFY_29102026150417_PR_29102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys announced the winners of the Qorus-Infosys Finacle Banking Innovation Awards 2026."
   },
   {
     "id": "106834102",
@@ -180,11 +265,11 @@
     "details": "Please find enclosed the Press Release on the performance of the Company for the quarter and half year ended 30th September 2026.",
     "time": "2026-10-29T14:14:43",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141409_OutcomeofBM29102026signed.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Released performance press release for the quarter and half year ended September 30, 2026."
   },
   {
     "id": "106834098",
@@ -194,11 +279,11 @@
     "details": "The Board of Directors at their meeting held today i.e., 29th October 2026, has, inter alia, approved the payment of interim dividend of Rs. 5.75 (Rupees five and paise seventy-five only) per equity share of the face value of Re. 1 each for the financial year ending 31st March 2027",
     "time": "2026-10-29T14:12:34",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026141215_OutcomeofBM29102026signed.pdf",
-    "category": "press_release",
+    "category": "dividend",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 50,
+    "tier": "medium",
+    "summary": "Approved an interim dividend of Rs. 5.75 per equity share on October 29, 2026."
   },
   {
     "id": "106834096",
@@ -208,11 +293,35 @@
     "details": "The Board of Directors at its meeting held today i.e., 29th October 2026, has, inter alia, approved the audited standalone and unaudited consolidated financial results of the Company for the quarter and half year ended 30th September 2026 and payment of interim dividend of Rs. 5.75 (Rupees five and paise seventy-five only) per equity share of the face value of Re. 1 each for the financial year ending 31st March 2027",
     "time": "2026-10-29T14:10:22",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "₹ in Crores",
+      "label": "30.09.2026",
+      "current": {
+        "revenue": 9976.51,
+        "ebitda": 1599.06,
+        "pbt": 1477.78,
+        "pat": 1085.35
+      },
+      "qoq": {
+        "revenue": -5.4,
+        "ebitda": -27.5,
+        "pbt": -29.5,
+        "pat": -30.4
+      },
+      "yoy": {
+        "revenue": 16.9,
+        "ebitda": 3.7,
+        "pbt": 6.2,
+        "pat": 6.6
+      },
+      "ebitda_margin": 16.0
+    },
+    "summary": "Approved financial results for September 30, 2026, and declared an interim dividend of Rs. 5.75 per share."
   },
   {
     "id": "106834090",
@@ -225,7 +334,8 @@
     "category": "dividend",
     "is_intimation": false,
     "priority": 50,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Approved financial results for September 30, 2026, and an interim dividend of Rs. 5.75 per share on October 29, 2026."
   },
   {
     "id": "106834087",
@@ -235,11 +345,11 @@
     "details": "Asian Paints Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "time": "2026-10-29T14:04:43",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140213_OutcomeofBM29102026signed.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Asian Paints submitted financial results for the period ended September 30, 2026."
   },
   {
     "id": "106834064",
@@ -252,7 +362,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel informed the exchange about regulatory orders or actions taken."
   },
   {
     "id": "106833817",
@@ -301,11 +412,11 @@
     "details": "Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015   Voluntary strike off of Hamleys (Franchising) Limited",
     "time": "2026-10-29T08:55:40",
     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_29102026084603_SE_29102026.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Voluntary strike off announced for Hamleys (Franchising) Limited."
   },
   {
     "id": "106833097",
@@ -341,11 +452,10 @@
     "details": "Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.",
     "time": "2026-10-28T17:43:39",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_28102026174326_Intimationtostockexchange.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106832593",
@@ -355,11 +465,10 @@
     "details": "Infosys Limited has informed the Exchange regarding 'Earnings Call Transcript'.",
     "time": "2026-10-28T17:38:42",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_28102026173824_SE_filing_Earnings_call_transcript.pdf",
-    "category": "press_release",
+    "category": "earnings_call",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 35,
+    "tier": "low"
   },
   {
     "id": "106832566",
@@ -371,9 +480,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_28102026173120_PR_28102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Canada's UNI Financial Cooperation advanced branch modernization using Infosys Finacle."
   },
   {
     "id": "106832541",
@@ -399,7 +508,8 @@
     "category": "M&A",
     "is_intimation": false,
     "priority": 85,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Titan Company incorporated Titan Company Canada Inc. as a wholly owned subsidiary."
   },
   {
     "id": "106831762",
@@ -409,11 +519,10 @@
     "details": "Indian Railway Catering And Tourism Corporation Limited has informed the Exchange about Board Comments on fines levied by the Exchanges for non-compliances of certain Regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
     "time": "2026-10-28T12:23:25",
     "pdf": "https://nsearchives.nseindia.com/corporate/IRCTC_28102026122246_BoardCommentonStockExchangepenalty.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106831536",
@@ -426,7 +535,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Polycab India updated the exchange regarding the NCLAT order dated October 27, 2026."
   },
   {
     "id": "106831411",
@@ -439,7 +549,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Suzlon Energy submitted a credit rating filing to the exchange."
   },
   {
     "id": "106831187",
@@ -449,11 +560,10 @@
     "details": "Infosys Limited has informed the Exchange regarding ' Investor Conference'.",
     "time": "2026-10-27T22:53:15",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_27102026225301_SE_filing_Investor_Conference_27102026.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106831153",
@@ -476,11 +586,11 @@
     "details": "Trading in equity shares of Jio Platforms Limited (JPL) will commence from October 28, 2026.Further, a meeting of board of directors of JPL is scheduled to be held on Friday, October 30, 2026, inter alia, to consider and approve the standalone and consolidated unaudited financial results of JPL for the quarter and half year ended September 30, 2026.",
     "time": "2026-10-27T22:11:29",
     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_27102026220855_RIL_SELETTER_271026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
-    "tier": "low"
+    "priority": 55,
+    "tier": "medium",
+    "summary": "Jio Platforms equity shares will trade from October 28, 2026, with a board meeting on October 30, 2026, for September 2026 results."
   },
   {
     "id": "106830931",
@@ -503,11 +613,10 @@
     "details": "Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.",
     "time": "2026-10-27T19:04:27",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_27102026190410_Intimationtostockexchange.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106830830",
@@ -530,11 +639,11 @@
     "details": "Larsen & Toubro Limited has informed the Exchange regarding 'Analyst Presentation.- Q2 / H1 FY27'.",
     "time": "2026-10-27T18:37:19",
     "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026183653_AnalystPresentationSep2026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Larsen & Toubro shared its Q2 and H1 FY27 analyst presentation."
   },
   {
     "id": "106830479",
@@ -544,11 +653,35 @@
     "details": "Larsen & Toubro Limited has submitted to the Exchange, the consolidated and standalone un-audited financial results of the Company for the quarter and half-year ended September 30, 2026.",
     "time": "2026-10-27T17:13:09",
     "pdf": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "Rs Crore",
+      "label": "September 30, 2026",
+      "current": {
+        "revenue": 78749.94,
+        "ebitda": 6844.65,
+        "pbt": 7641.06,
+        "pat": 5949.15
+      },
+      "qoq": {
+        "revenue": 15.9,
+        "ebitda": 11.9,
+        "pbt": 10.4,
+        "pat": 19.3
+      },
+      "yoy": {
+        "revenue": 15.8,
+        "ebitda": 0.6,
+        "pbt": 20.6,
+        "pat": 27.2
+      },
+      "ebitda_margin": 8.7
+    },
+    "summary": "Larsen & Toubro reported standalone and consolidated un-audited financial results for the quarter and half-year ended September 30, 2026."
   },
   {
     "id": "106830402",
@@ -573,9 +706,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_27102026163727_PR_27102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys successfully delivered Syngenta's global SAP S/4HANA transformation for its crop protection business."
   },
   {
     "id": "106829991",
@@ -614,7 +747,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro announced bagging or receiving new orders and contracts."
   },
   {
     "id": "106829496",
@@ -624,11 +758,12 @@
     "details": "HDFC Bank Limited has informed the Exchange regarding disclosure under Regulation 30 and other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Change in Managing Director and Chief Executive Officer of the Bank",
     "time": "2026-10-27T08:02:54",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf",
-    "category": "press_release",
+    "category": "management_change",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "people": [],
+    "summary": "HDFC Bank disclosed a change in its Managing Director and Chief Executive Officer."
   },
   {
     "id": "106829445",
@@ -651,11 +786,10 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 26, 2026.",
     "time": "2026-10-26T23:21:37",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_26102026232129_PersistentSEOutcomeAllotmentofsharesOct262026IIFLSigned.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106829106",
@@ -665,11 +799,10 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 26, 2026.",
     "time": "2026-10-26T19:30:09",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_26102026192958_PersistentSEOutcomeQIPissueclosingOct262026signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106829031",
@@ -731,11 +864,11 @@
     "details": "Initial Public Offer of Jio Platforms Limited",
     "time": "2026-10-24T21:48:04",
     "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
-    "category": "press_release",
+    "category": "fund_raise",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 75,
+    "tier": "high",
+    "summary": "Jio Platforms announced details regarding its Initial Public Offering."
   },
   {
     "id": "106827749",
@@ -758,11 +891,11 @@
     "details": "Yes Bank Limited has informed the Exchange about Update regarding judgment of the Hon ble Supreme Court of India in relation to Additional Tier-1 Bonds",
     "time": "2026-10-24T17:21:42",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_24102026172125_YBL_Stock_Exchange_Intimation_AT1_Bonds_Disclosure_signed.pdf",
-    "category": "press_release",
+    "category": "litigation",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 70,
+    "tier": "high",
+    "summary": "Yes Bank updated the exchange on the Supreme Court judgment regarding Additional Tier-1 bonds."
   },
   {
     "id": "106827618",
@@ -788,7 +921,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "ICICI Bank submitted a credit rating update to the exchange."
   },
   {
     "id": "106827180",
@@ -837,11 +971,10 @@
     "details": "Infosys Limited has informed the Exchange regarding 'Report of auditors on financial statements for the quarter and half year ended September 30, 2026 withUDIN'.",
     "time": "2026-10-23T20:07:11",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_23102026200652_SE_filing_Auditors_report_with_UDIN.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106826990",
@@ -867,7 +1000,8 @@
     "category": "M&A",
     "is_intimation": false,
     "priority": 85,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Trent's subsidiary Nahar Retail signed a term sheet on October 22, 2026, to divest its 100% stake in Netria Property Holdings."
   },
   {
     "id": "106826802",
@@ -892,9 +1026,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_23102026180028_SE_Intimation_of_Press_Release_-_ESMO.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Sun Pharmaceutical Industries issued a press release on October 23, 2026."
   },
   {
     "id": "106826781",
@@ -917,11 +1051,10 @@
     "details": "Trent Limited has informed the Exchange about Reminder letter for transfer of equity shares to the Investor Education and Protection Fund ( IEPF )",
     "time": "2026-10-23T16:34:41",
     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_23102026163319_Reg30Reminderlettertoshareholder2026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106826469",
@@ -931,11 +1064,11 @@
     "details": "Infosys Limited has informed the Exchange that Record date for the purpose of Dividend  is 03-Nov-2026.",
     "time": "2026-10-23T16:10:52",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160926_BM_Outcome_Oct232026_1.pdf",
-    "category": "press_release",
+    "category": "dividend",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 50,
+    "tier": "medium",
+    "summary": "Infosys set November 3, 2026, as the record date for an upcoming dividend."
   },
   {
     "id": "106826465",
@@ -945,11 +1078,35 @@
     "details": "Infosys Limited has submitted to the Exchange, Financial Results for the quarter and half year ended September 30, 2026 and declaration of interim dividend",
     "time": "2026-10-23T16:08:26",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "in ₹ crore",
+      "label": "September 30, 2026",
+      "current": {
+        "revenue": 49244,
+        "ebitda": 11689,
+        "pbt": 11063,
+        "pat": 7838
+      },
+      "qoq": {
+        "revenue": 2.1,
+        "ebitda": 2.5,
+        "pbt": 0.3,
+        "pat": 0.8
+      },
+      "yoy": {
+        "revenue": 10.7,
+        "ebitda": 11.0,
+        "pbt": 8.2,
+        "pat": 6.3
+      },
+      "ebitda_margin": 23.7
+    },
+    "summary": "Infosys released financial results for the quarter and half-year ended September 30, 2026, and declared an interim dividend."
   },
   {
     "id": "106826247",
@@ -959,11 +1116,10 @@
     "details": "Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.",
     "time": "2026-10-23T14:34:30",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_23102026143418_Intimationtostockexchange.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106825617",
@@ -976,7 +1132,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Persistent Systems submitted a credit rating update to the exchange."
   },
   {
     "id": "106825493",
@@ -1040,9 +1197,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_21102026224413_SE_21102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "The company issued and attached a media statement."
   },
   {
     "id": "106823942",
@@ -1055,7 +1212,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Persistent Systems submitted a credit rating update to the exchange."
   },
   {
     "id": "106823937",
@@ -1068,7 +1226,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Reliance Industries submitted a credit rating update to the exchange."
   },
   {
     "id": "106823907",
@@ -1078,11 +1237,10 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
     "time": "2026-10-21T19:59:41",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026195926_PersistentUpdateonSEOutcomeQIPissueopeningOct212026signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106823873",
@@ -1095,7 +1253,8 @@
     "category": "fund_raise",
     "is_intimation": false,
     "priority": 75,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Persistent Systems informed the exchange about an issue of securities."
   },
   {
     "id": "106823856",
@@ -1105,11 +1264,10 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 21, 2026.",
     "time": "2026-10-21T19:16:46",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_21102026191632_PersistentSEOutcomeQIPissueopeningOct212026V3signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106823800",
@@ -1119,11 +1277,10 @@
     "details": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Giving of guarantees or indemnity or becoming a surety for any third party'.",
     "time": "2026-10-21T18:41:55",
     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_21102026184143_Regulation30GuaranteeQuanta21102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106823745",
@@ -1135,9 +1292,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/BEL_21102026181543_Press_release_21102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharat Electronics received new orders worth Rs. 1011 Crore, per a press release dated October 21, 2026."
   },
   {
     "id": "106823458",
@@ -1176,7 +1333,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro secured new business orders and contracts."
   },
   {
     "id": "106822793",
@@ -1188,9 +1346,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_20102026173321_SE_Intimation_of_Press_Release_on_NCCN_Gudelines_Update.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Sun Pharmaceutical Industries issued a press release on October 20, 2026."
   },
   {
     "id": "106822686",
@@ -1203,7 +1361,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Yes Bank submitted a credit rating filing."
   },
   {
     "id": "106822684",
@@ -1213,11 +1372,10 @@
     "details": "Yes Bank Limited has informed the Exchange about Update on Outcome of the Board Meeting dated October 17, 2026 - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( Listing Regulations )",
     "time": "2026-10-20T09:19:44",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_20102026091917_YBL_SE_Intimation_Outcome_FR_Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106822473",
@@ -1230,7 +1388,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Indian Railway Catering And Tourism Corporation reported a change in management."
   },
   {
     "id": "106822132",
@@ -1243,7 +1403,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Trent announced the resignation of a key director or management personnel."
   },
   {
     "id": "106822047",
@@ -1266,11 +1428,10 @@
     "details": "Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.",
     "time": "2026-10-19T16:23:29",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_19102026162313_Intimationtostockexchange.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106822009",
@@ -1280,11 +1441,10 @@
     "details": "Titan Company Limited has informed the Exchange about Redemption of Commercial Paper",
     "time": "2026-10-19T16:11:44",
     "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_19102026161128_SECPRedemption16102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106821948",
@@ -1307,11 +1467,11 @@
     "details": "Infosys Limited has informed the Exchange regarding 'Infosys to Announce Second Quarter Results on October 23, 2026'.",
     "time": "2026-10-19T15:40:54",
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_19102026154028_PR_19102026.pdf",
-    "category": "press_release",
-    "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "category": "results",
+    "is_intimation": true,
+    "priority": 55,
+    "tier": "medium",
+    "summary": "Infosys scheduled its second quarter results announcement for October 23, 2026."
   },
   {
     "id": "106821932",
@@ -1323,9 +1483,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_19102026153335_PR_19102026_2.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys and Truist strengthened collaboration to build a Global Capability Center in India."
   },
   {
     "id": "106821698",
@@ -1337,9 +1497,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_19102026112258_PR_19Oct26_signed.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Tata Consultancy Services announced its TCS BaNCS for Treasury entered Sri Lanka with Indian Bank."
   },
   {
     "id": "106821609",
@@ -1365,7 +1525,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro received new orders and contracts."
   },
   {
     "id": "106821444",
@@ -1414,11 +1575,35 @@
     "details": "Press Release and Investor Presentation on the Financial Results for the Quarter (Q2) ended on September 30, 2026",
     "time": "2026-10-17T20:12:08",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_17102026201157_SE_Intimation_signed.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "INR Crs",
+      "label": "Sep 2026",
+      "current": {
+        "revenue": 4704,
+        "ebitda": null,
+        "pbt": 1360,
+        "pat": 1080
+      },
+      "qoq": {
+        "revenue": 2.6,
+        "ebitda": null,
+        "pbt": 3.9,
+        "pat": 0.8
+      },
+      "yoy": {
+        "revenue": 19.2,
+        "ebitda": null,
+        "pbt": 54.9,
+        "pat": 65.1
+      },
+      "ebitda_margin": null
+    },
+    "summary": "Submitted press release and investor presentation for the Q2 financial results ended September 30, 2026."
   },
   {
     "id": "106821344",
@@ -1441,11 +1626,12 @@
     "details": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   Change in Senior Management Personnel (SMP) of the Bank",
     "time": "2026-10-17T19:41:26",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_17102026194113_Stock_Exchange_Intimation_BM_signed.pdf",
-    "category": "press_release",
+    "category": "management_change",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 55,
+    "tier": "medium",
+    "people": [],
+    "summary": "Reported a change in Senior Management Personnel following a board meeting."
   },
   {
     "id": "106821333",
@@ -1455,11 +1641,10 @@
     "details": "Outcome of Board Meeting   Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "time": "2026-10-17T19:35:33",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_17102026193510_YBL_Stock_Exchange_Intimation_ID_Appt_Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106821332",
@@ -1469,11 +1654,10 @@
     "details": "The newspaper clippings of the advertisement on the captioned subject published today are enclosed.",
     "time": "2026-10-17T19:32:52",
     "pdf": "https://nsearchives.nseindia.com/corporate/PVIVINMA_17102026193113_RIL_SE_171026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106821322",
@@ -1483,11 +1667,10 @@
     "details": "Outcome of the Board Meeting - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( Listing Regulations )",
     "time": "2026-10-17T19:19:19",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_17102026191757_SE_Intimation_Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106821197",
@@ -1500,7 +1683,8 @@
     "category": "results",
     "is_intimation": false,
     "priority": 90,
-    "tier": "high"
+    "tier": "high",
+    "summary": "ICICI Bank submitted an investor presentation filing."
   },
   {
     "id": "106821168",
@@ -1510,11 +1694,10 @@
     "details": "HDFC Bank Limited has informed the Exchange regarding disclosure under Regulation 30 and other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "time": "2026-10-17T16:14:18",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026161248_Stockexchangeintimation_LV_KB.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106821159",
@@ -1537,11 +1720,25 @@
     "details": "ICICI Bank Limited has informed the Exchange that the Board at its meeting held today, inter alia, approved the filing of an application with RBI seeking its approval for the continuation of Mr. Pradeep Kumar Sinha as a Non-executive Part-time Chairperson of the Bank for a further period from July 1, 2027 till February 16, 2029 which is within his tenure as Independent Director approved by the Board and shareholders. This information is being filed in continuation of the disclosures filed by the Bank on February 17, 2024 and May 24, 2024.",
     "time": "2026-10-17T15:28:05",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_17102026152608_NSEBSE17102026.pdf",
-    "category": "press_release",
+    "category": "management_change",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "people": [
+      {
+        "name": "Pradeep Kumar Sinha",
+        "role": "Non-executive Part-time Chairperson",
+        "change": "re-appointed",
+        "bio": "Pradeep Kumar Sinha is a retired 1977-batch IAS officer who previously served as the Cabinet Secretary of India, Power Secretary, and Shipping Secretary. He holds a Master's degree in Economics from the Delhi School of Economics.",
+        "previous": [
+          "Government of India - Cabinet Secretary",
+          "Government of India - Power Secretary",
+          "Government of India - Shipping Secretary"
+        ],
+        "source": "https://en.wikipedia.org/wiki/Pradeep_Kumar_Sinha"
+      }
+    ],
+    "summary": "ICICI Bank applied to the RBI to extend Pradeep Kumar Sinha's chairperson tenure until February 2029."
   },
   {
     "id": "106821125",
@@ -1551,11 +1748,35 @@
     "details": "ICICI Bank Limited has submitted to the Exchange, the unaudited financial results of the Bank (standalone and consolidated) for the quarter and six months ended September 30, 2026.",
     "time": "2026-10-17T15:21:44",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_17102026152039_NSEBSE17102026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "in crore",
+      "label": "September 30, 2026",
+      "current": {
+        "revenue": 88161.18,
+        "ebitda": null,
+        "pbt": 23191.75,
+        "pat": 16333.18
+      },
+      "qoq": {
+        "revenue": 10.6,
+        "ebitda": null,
+        "pbt": 8.5,
+        "pat": 5.8
+      },
+      "yoy": {
+        "revenue": 15.8,
+        "ebitda": null,
+        "pbt": 21.3,
+        "pat": 22.3
+      },
+      "ebitda_margin": null
+    },
+    "summary": "ICICI Bank reported standalone and consolidated unaudited financial results for the period ended September 30, 2026."
   },
   {
     "id": "106821121",
@@ -1578,11 +1799,35 @@
     "details": "HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "time": "2026-10-17T13:56:22",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "Rs crore",
+      "label": "Sep 30, 2026",
+      "current": {
+        "revenue": 129358.69,
+        "ebitda": null,
+        "pbt": 28662.54,
+        "pat": 20700.03
+      },
+      "qoq": {
+        "revenue": -2.8,
+        "ebitda": null,
+        "pbt": 5.4,
+        "pat": 7.6
+      },
+      "yoy": {
+        "revenue": 9.1,
+        "ebitda": null,
+        "pbt": 7.5,
+        "pat": 5.6
+      },
+      "ebitda_margin": null
+    },
+    "summary": "HDFC Bank submitted financial results for the period ended September 30, 2026."
   },
   {
     "id": "106821011",
@@ -1634,7 +1879,22 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 85,
-    "tier": "high"
+    "tier": "high",
+    "people": [
+      {
+        "name": "Manoj Murali",
+        "role": "Chief Operating Officer",
+        "change": "appointed",
+        "bio": "Manoj Murali is the Chief Operating Officer at Vodafone Idea Limited with over 25 years of experience in the telecom and mobility sector. He previously held leadership roles at companies including Ola Electric, Reliance Jio, and Bharti Airtel.",
+        "previous": [
+          "Ola Electric - Chief Business Officer",
+          "Reliance Jio - Executive",
+          "Bharti Airtel - Executive"
+        ],
+        "source": "https://x.com/wegro_app/status/2111072791235801192"
+      }
+    ],
+    "summary": "Vodafone Idea appointed Mr. Manoj Murali as Chief Operating Officer."
   },
   {
     "id": "106820326",
@@ -1683,11 +1943,10 @@
     "details": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015- ESG Rating",
     "time": "2026-10-16T16:16:07",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_16102026161546_SE_Disclosure_ESG_Rating_NSE_2026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106819742",
@@ -1700,7 +1959,8 @@
     "category": "fund_raise",
     "is_intimation": false,
     "priority": 75,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Persistent Systems announced a securities issuance."
   },
   {
     "id": "106819733",
@@ -1710,11 +1970,10 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on October 16, 2026.",
     "time": "2026-10-16T10:44:49",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_16102026104432_PersistentSystemsStExchangeOutcomeOctober162026Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106819599",
@@ -1727,7 +1986,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Polycab India submitted a corporate insolvency resolution process filing."
   },
   {
     "id": "106819548",
@@ -1740,7 +2000,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Yes Bank disclosed the Supreme Court judgment regarding Additional Tier-1 Bonds."
   },
   {
     "id": "106819391",
@@ -1791,9 +2052,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/IRCTC_15102026194146_STXintimationpressrelease.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "IRCTC partnered with the Quality Council of India for third-party digital food safety audits."
   },
   {
     "id": "106819208",
@@ -1803,11 +2064,10 @@
     "details": "Indian Railway Catering And Tourism Corporation Limited has informed the Exchange about General Updates",
     "time": "2026-10-15T19:31:28",
     "pdf": "https://nsearchives.nseindia.com/corporate/IRCTC_15102026193117_GSTATcaseReply.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106819181",
@@ -1859,7 +2119,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Yes Bank clarified news regarding a 10% share price fall following the Supreme Court's Rs.8,400 crore AT-1 bond ruling."
   },
   {
     "id": "106818851",
@@ -1872,7 +2133,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Indian Railway Catering And Tourism Corporation announced a change in management."
   },
   {
     "id": "106818788",
@@ -1882,11 +2145,10 @@
     "details": "Persistent Systems Limited has informed the Exchange about General Updates",
     "time": "2026-10-15T16:51:43",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026165133_PSLSubmissionofFinancialsSeptember2026signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106818693",
@@ -1896,11 +2158,35 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Press Release regarding financial results for the quarter and half year ended September 30, 2026\".",
     "time": "2026-10-15T16:12:31",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026161221_SEIntimationpressrelease15102026Sd.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "INR Million",
+      "label": "Sep 30, 2026",
+      "current": {
+        "revenue": 46639.0,
+        "ebitda": null,
+        "pbt": null,
+        "pat": 3515.1
+      },
+      "qoq": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "yoy": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "ebitda_margin": null
+    },
+    "summary": "Persistent Systems released financial results for the quarter and half year ended September 30, 2026."
   },
   {
     "id": "106818679",
@@ -1913,7 +2199,8 @@
     "category": "results",
     "is_intimation": false,
     "priority": 90,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Persistent Systems submitted an investor presentation to the exchange."
   },
   {
     "id": "106818661",
@@ -1923,11 +2210,10 @@
     "details": "Outcome of the Board Meeting",
     "time": "2026-10-15T15:56:36",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_15102026155331_PSLBMOutcomeOctober152026159signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106818635",
@@ -1937,11 +2223,11 @@
     "details": "Polycab India Limited has informed the Exchange about Unaudited Interim Condensed (Standalone and Consolidated) Financial Statements for the quarter ended September 30, 2026",
     "time": "2026-10-15T15:33:36",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026153319_UnauditedInterimCondensed15102026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Polycab India submitted unaudited interim financial statements for the quarter ended September 30, 2026."
   },
   {
     "id": "106818579",
@@ -1954,7 +2240,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "The exchange sought clarification from Yes Bank regarding a 10% share drop over the Rs.8,400 crore AT-1 bond ruling."
   },
   {
     "id": "106818536",
@@ -1977,11 +2264,35 @@
     "details": "Polycab India Limited has informed the Exchange about Earnings Presentation on Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
     "time": "2026-10-15T13:52:19",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "₹ Mn",
+      "label": "Sep 2026",
+      "current": {
+        "revenue": 98989,
+        "ebitda": 14224,
+        "pbt": 13062,
+        "pat": 9900
+      },
+      "qoq": {
+        "revenue": 20.6,
+        "ebitda": 25.2,
+        "pbt": 23.4,
+        "pat": 24.3
+      },
+      "yoy": {
+        "revenue": 52.8,
+        "ebitda": 39.3,
+        "pbt": 41.8,
+        "pat": 42.9
+      },
+      "ebitda_margin": 14.4
+    },
+    "summary": "Polycab India issued an earnings presentation for the quarter and half year ended September 30, 2026."
   },
   {
     "id": "106818480",
@@ -1991,11 +2302,11 @@
     "details": "Tata Consultancy Services Limited has informed the Exchange about completion of acquisition of BBY Services India LLP",
     "time": "2026-10-15T13:30:23",
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026133009_SEInt15102026.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Tata Consultancy Services completed the acquisition of BBY Services India LLP."
   },
   {
     "id": "106818462",
@@ -2005,11 +2316,11 @@
     "details": "Polycab India Limited has informed the Exchange regarding a press release dated October 15, 2026, titled \"Financial results for the quarter ended 30th September 2026\".",
     "time": "2026-10-15T13:08:53",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026130834_PressRelease.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Polycab India issued a press release on financial results for the quarter ended September 30, 2026."
   },
   {
     "id": "106818441",
@@ -2019,11 +2330,11 @@
     "details": "Polycab India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "time": "2026-10-15T12:58:53",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_15102026125737_OutcomeofBoardMeeting.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Polycab India submitted its financial results for the period ended September 30, 2026."
   },
   {
     "id": "106818319",
@@ -2035,9 +2346,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15102026112020_PR_15Oct26_signed.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Tata Consultancy Services launched the Industrial Intelligence Foundry to accelerate AI-led autonomy and engineering."
   },
   {
     "id": "106817804",
@@ -2047,11 +2358,11 @@
     "details": "Proposed Initial Public Offer of Jio Platforms Limited.",
     "time": "2026-10-14T20:12:49",
     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026201111_RIL_SE_14102026_.pdf",
-    "category": "press_release",
-    "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "category": "fund_raise",
+    "is_intimation": true,
+    "priority": 40,
+    "tier": "medium",
+    "summary": "Jio Platforms proposed an initial public offering."
   },
   {
     "id": "106817794",
@@ -2074,11 +2385,11 @@
     "details": "Proposed Initial Public Offer of Jio Platforms Limited - filing of the Red Herring Prospectus.",
     "time": "2026-10-14T18:35:12",
     "pdf": "https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf",
-    "category": "press_release",
+    "category": "fund_raise",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 75,
+    "tier": "high",
+    "summary": "Jio Platforms filed its Red Herring Prospectus for a proposed initial public offering."
   },
   {
     "id": "106817628",
@@ -2088,11 +2399,10 @@
     "details": "Dixon Technologies (India) Limited has informed the Exchange ESG Rating by Crisil ESG Ratings & Analystics Ltd.",
     "time": "2026-10-14T18:25:23",
     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_14102026182232_ESGRatingDisclousureCrisil14102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106817485",
@@ -2118,7 +2428,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel reported regulatory actions or orders passed against it."
   },
   {
     "id": "106817267",
@@ -2143,9 +2454,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14102026112025_PR_14Oct26_signed.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "MyState Limited selected TCS BaNCSTM to transform its core banking operations."
   },
   {
     "id": "106816873",
@@ -2158,7 +2469,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "NCLAT granted Polycab India's request for an early listing, scheduling the appeal for October 15, 2026."
   },
   {
     "id": "106816165",
@@ -2171,7 +2483,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Sun Pharmaceutical Industries reported updates regarding its credit ratings."
   },
   {
     "id": "106816002",
@@ -2183,9 +2496,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_13102026164554_StockExchangeIntimation-Press_Release.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Polycab India issued a press release regarding an NCLAT order."
   },
   {
     "id": "106815944",
@@ -2211,7 +2524,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharat Electronics secured new orders and contracts."
   },
   {
     "id": "106815788",
@@ -2223,9 +2537,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_13102026145534_PSLPressRelease13102026Sd.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Persistent Systems opened its third Hyderabad facility to strengthen AI and modernization delivery."
   },
   {
     "id": "106815617",
@@ -2237,9 +2551,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_13102026122634_PR_13102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys Foundation enabled over 2.5 lakh job offers across India via the Infosys Springboard Livelihood Program."
   },
   {
     "id": "106815390",
@@ -2278,7 +2592,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Suzlon Energy submitted a rumor verification filing under Regulation 30(11)."
   },
   {
     "id": "106815039",
@@ -2291,7 +2606,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Sun Pharmaceutical Industries reported the resignation of a Director, KMP, or SMP."
   },
   {
     "id": "106815017",
@@ -2304,7 +2621,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "A Director of the company has resigned."
   },
   {
     "id": "106815003",
@@ -2314,11 +2633,10 @@
     "details": "Outcome of the Board Meeting held on 12 October 2026",
     "time": "2026-10-12T19:57:07",
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_12102026195625_BMOutcome12October2026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106814880",
@@ -2341,11 +2659,10 @@
     "details": "ICICI Bank Limited has informed the Exchange about Call with media on financial results for the quarter and six months ended September 30, 2026.",
     "time": "2026-10-12T18:08:35",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_12102026180729_BSENSE_12102026.pdf",
-    "category": "press_release",
+    "category": "investor_meetings",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 20,
+    "tier": "low"
   },
   {
     "id": "106814767",
@@ -2381,11 +2698,10 @@
     "details": "Infosys Limited has informed the Exchange about General Updates",
     "time": "2026-10-10T22:45:31",
     "pdf": "https://nsearchives.nseindia.com/corporate/INFY_10102026224330_Infosys_October102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106813708",
@@ -2450,7 +2766,8 @@
     "category": "credit_rating",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Persistent Systems received a new credit rating."
   },
   {
     "id": "106813089",
@@ -2463,7 +2780,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Persistent Systems reported the resignation of a Director, KMP, or SMP."
   },
   {
     "id": "106813081",
@@ -2476,7 +2795,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Polycab India submitted a corporate insolvency resolution process filing."
   },
   {
     "id": "106813060",
@@ -2486,11 +2806,10 @@
     "details": "Persistent Systems Limited has informed the Exchange about General Updates",
     "time": "2026-10-09T19:24:04",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_09102026192354_PSLSMPResignationIntimation9102026sd.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106813002",
@@ -2513,11 +2832,11 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding a press release dated October 09, 2026, titled \"Persistent Secures Strong Majority Stake\".",
     "time": "2026-10-09T19:00:33",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_09102026190022_PSLPressReleaseOctober92026sd.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Persistent Systems issued a press release on October 9, 2026, titled \"Persistent Secures Strong Majority Stake\"."
   },
   {
     "id": "106812964",
@@ -2553,11 +2872,11 @@
     "details": "Persistent Systems Limited has informed the Exchange regarding 'Update on Voluntary Public Takeover Offer made by Persistent Systems Limited to the shareholders of Nagarro SE'.",
     "time": "2026-10-09T17:37:49",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_09102026173743_PSLUpdateonVoluntaryPublicTakeoverOfferofNagarroSigned.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Persistent Systems provided an update on its voluntary public takeover offer for shareholders of Nagarro SE."
   },
   {
     "id": "106812495",
@@ -2595,9 +2914,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09102026080757_SE_TCS_Statement_f.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Tata Consultancy Services issued a statement regarding the US Government announcement on the Permanent Labor Certification Program."
   },
   {
     "id": "106811801",
@@ -2623,7 +2942,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Polycab India submitted a corporate insolvency resolution process filing."
   },
   {
     "id": "106811644",
@@ -2636,7 +2956,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 70,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Polycab India submitted a corporate insolvency resolution process filing."
   },
   {
     "id": "106811531",
@@ -2649,7 +2970,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Suzlon Energy submitted a rumor verification filing under Regulation 30(11)."
   },
   {
     "id": "106811502",
@@ -2711,11 +3033,10 @@
     "details": "Corrigendum to our earlier letter under Ref. no. NSE & BSE / 2026-27 / 143 dated September 30, 2026",
     "time": "2026-10-08T17:20:13",
     "pdf": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_08102026171702_PSLCorrigendumtotheOutcomeofInvestorsCallOct82026Sd.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106811243",
@@ -2725,11 +3046,10 @@
     "details": "Titan Company Limited has informed the Exchange regarding 'Redemption of Commercial Paper'.",
     "time": "2026-10-08T16:12:50",
     "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_08102026161235_SECPRedemption08102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106811194",
@@ -2739,11 +3059,11 @@
     "details": "Tata Consultancy Services Limited has informed the Exchange about Date of Payment of Dividend.",
     "time": "2026-10-08T15:44:45",
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026154436_Post_BM_SE_Letter_fin.pdf",
-    "category": "press_release",
+    "category": "dividend",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 50,
+    "tier": "medium",
+    "summary": "Tata Consultancy Services announced the dividend payment date."
   },
   {
     "id": "106811193",
@@ -2753,11 +3073,11 @@
     "details": "Tata Consultancy Services Limited has informed the Exchange regarding a press release dated October 8, 2026, titled \"International Growth and Strategic Wins Underpin TCS  Q2\".",
     "time": "2026-10-08T15:43:32",
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026154325_PressReleaseletter.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Tata Consultancy Services issued an October 8, 2026 press release on international growth and Q2 strategic wins."
   },
   {
     "id": "106811188",
@@ -2770,7 +3090,8 @@
     "category": "dividend",
     "is_intimation": false,
     "priority": 50,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Tata Consultancy Services declared an interim dividend of Rs. 12 per equity share on October 8, 2026."
   },
   {
     "id": "106811186",
@@ -2780,11 +3101,35 @@
     "details": "Tata Consultancy Services Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
     "time": "2026-10-08T15:40:12",
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": "consolidated",
+      "unit": "crore",
+      "label": "September 30, 2026",
+      "current": {
+        "revenue": 73188,
+        "ebitda": 18815,
+        "pbt": 18638,
+        "pat": 13934
+      },
+      "qoq": {
+        "revenue": 1.3,
+        "ebitda": 5.2,
+        "pbt": 3.9,
+        "pat": 3.8
+      },
+      "yoy": {
+        "revenue": 11.2,
+        "ebitda": 11.7,
+        "pbt": 16.0,
+        "pat": 14.9
+      },
+      "ebitda_margin": 25.7
+    },
+    "summary": "Tata Consultancy Services submitted financial results for the period ended September 30, 2026."
   },
   {
     "id": "106811137",
@@ -2807,11 +3152,10 @@
     "details": "HDFC Bank Limited has informed the Exchange about General Updates",
     "time": "2026-10-08T12:23:50",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_08102026122324_SE_Intimation-_Newspaper_adv.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106810636",
@@ -2847,10 +3191,9 @@
     "details": "Polycab India Limited has informed the Exchange about intimation of NCLT order",
     "time": "2026-10-07T22:45:52",
     "pdf": "https://nsearchives.nseindia.com/corporate/POLYCAB_07102026224543_Intimationtostockexchange.pdf",
-    "category": "press_release",
+    "category": "litigation",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
+    "priority": 35,
     "tier": "low"
   },
   {
@@ -2864,7 +3207,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Regulatory disclosure regarding actions taken or orders passed under SEBI Listing Regulations."
   },
   {
     "id": "106810362",
@@ -2877,7 +3221,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Larsen & Toubro reported a change in management."
   },
   {
     "id": "106810343",
@@ -2913,11 +3259,11 @@
     "details": "Dixon Technologies (India) Limited has informed the Exchange about Joint Venture Agreement executed between Dixon Technologies (India) Limited, Dixon Electroconnect Private Limited and Gemtek Technology Co., Ltd",
     "time": "2026-10-07T15:01:51",
     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_07102026150006_Regulation30_DisclosureGemtek07102026.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Dixon Technologies executed a joint venture agreement with Dixon Electroconnect and Gemtek Technology."
   },
   {
     "id": "106809356",
@@ -2929,9 +3275,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_07102026110048_BhartiAirtelPR.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel announced free international roaming on all postpaid plans effective October 07, 2026."
   },
   {
     "id": "106809242",
@@ -2944,7 +3290,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro secured new business orders and contracts."
   },
   {
     "id": "106808939",
@@ -3006,11 +3353,11 @@
     "details": "Asian Paints Limited has informed the Exchange that Record date for the purpose of Dividend  is 04-Nov-2026.",
     "time": "2026-10-06T19:12:54",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06102026191216_BMintimationtoStockExchangesOct26.pdf",
-    "category": "press_release",
+    "category": "dividend",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 50,
+    "tier": "medium",
+    "summary": "Asian Paints set November 04, 2026 as the record date for dividend."
   },
   {
     "id": "106808824",
@@ -3020,10 +3367,9 @@
     "details": "Asian Paints Limited has informed the Exchange regarding 'This is to inform you that a meeting of the Board of Directors of the Company will be held on Thursday, 29th October 2026, inter alia, to consider the declaration of interim dividend, if any, for the financial year ending 31st March 2027.  It is further informed that the record date for payment of interim dividend, if declared, will be Wednesday, 4th November 2026.'.",
     "time": "2026-10-06T19:10:16",
     "pdf": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_06102026190837_BMintimationtoStockExchangesOct26.pdf",
-    "category": "press_release",
+    "category": "dividend",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
+    "priority": 15,
     "tier": "low"
   },
   {
@@ -3036,9 +3382,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_06102026182517_SEintimationPRforMSP.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Sun Pharma established an endowed professorship at Mount Sinai to advance dermatologic care."
   },
   {
     "id": "106808719",
@@ -3048,11 +3394,35 @@
     "details": "Titan Company Limited has informed the Exchange regarding 'Quarterly Update   Q2 FY 2026-27'.",
     "time": "2026-10-06T18:22:46",
     "pdf": "https://nsearchives.nseindia.com/corporate/TITAN_06102026182232_Q2update202627.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "results": {
+      "basis": null,
+      "unit": null,
+      "label": null,
+      "current": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "qoq": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "yoy": {
+        "revenue": null,
+        "ebitda": null,
+        "pbt": null,
+        "pat": null
+      },
+      "ebitda_margin": null
+    },
+    "summary": "Titan Company released its business update for Q2 FY 2026-27."
   },
   {
     "id": "106808377",
@@ -3114,11 +3484,11 @@
     "details": "Trent Limited has informed the Exchange regarding Update for Q2FY27 and H1FY27.",
     "time": "2026-10-05T18:42:52",
     "pdf": "https://nsearchives.nseindia.com/corporate/TRENT_05102026183958_Press_release_Q2FY27.pdf",
-    "category": "press_release",
+    "category": "results",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 90,
+    "tier": "high",
+    "summary": "Trent Limited released its operational update for Q2 FY27 and H1FY27."
   },
   {
     "id": "106806942",
@@ -3169,9 +3539,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/BHARTIARTL_05102026120416_BhartiAirtelSTXIntimation.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel launched IQ Gateway, India's first business communications platform with telco-grade network intelligence."
   },
   {
     "id": "106806590",
@@ -3184,7 +3554,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro secured new orders and contracts."
   },
   {
     "id": "106806485",
@@ -3194,10 +3565,9 @@
     "details": "HDFC Bank Limited has informed the Exchange regarding intimation under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "time": "2026-10-04T22:03:36",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK_04102026220033_initial_Final_disclosure_Sep2026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
+    "priority": 0,
     "tier": "low"
   },
   {
@@ -3208,10 +3578,9 @@
     "details": "Yes Bank Limited has informed the Exchange regarding 'Intimation under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
     "time": "2026-10-04T13:01:17",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_04102026130032_YBL_SE_Intimation_Pre_Results_Disclosure-Q2FY27_Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
+    "priority": 0,
     "tier": "low"
   },
   {
@@ -3235,11 +3604,10 @@
     "details": "ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "time": "2026-10-02T17:47:37",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_02102026174507_NSEBSE_02102026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106806049",
@@ -3277,9 +3645,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_01102026214236_Signed_PRSEInt01102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Best Buy's Global Capability Center in India will transition to Tata Consultancy Services."
   },
   {
     "id": "106805600",
@@ -3318,7 +3686,8 @@
     "category": "M&A",
     "is_intimation": false,
     "priority": 85,
-    "tier": "high"
+    "tier": "high",
+    "summary": "Tata Consultancy Services announced a corporate acquisition."
   },
   {
     "id": "106805363",
@@ -3328,11 +3697,10 @@
     "details": "Tata Consultancy Services Limited has informed the Exchange regarding Outcome of Meeting of Investment Committee, as empowered by the Board, held on October 01, 2026.",
     "time": "2026-10-01T18:39:47",
     "pdf": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_01102026182634_Signed_SE_Letter.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106805308",
@@ -3345,7 +3713,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "HDFC Bank announced changes in its board of directors."
   },
   {
     "id": "106805144",
@@ -3357,9 +3727,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNPHARMA123_01102026174411_SEIntimationPR_1Oct2026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Sun Pharma presented positive two-year data for LEQSELVI in severe alopecia areata at EADV Congress 2026."
   },
   {
     "id": "106805095",
@@ -3371,9 +3741,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/Infosys_01102026173153_PR_01102026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys and Columbia University launched a strategic collaboration for deep research and innovation."
   },
   {
     "id": "106805014",
@@ -3383,11 +3753,10 @@
     "details": "ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
     "time": "2026-10-01T17:02:41",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_01102026170118_BSENSE01102926.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106804868",
@@ -3439,7 +3808,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel received regulatory or legal orders."
   },
   {
     "id": "106804072",
@@ -3449,11 +3819,10 @@
     "details": "Yes Bank Limited has informed the Exchange regarding 'Funds received in a trust in the Security Receipts Portfolio: Loan Portfolio Sold to J. C. Flower Asset Reconstruction Private Limited ( JC Flower ARC )   Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
     "time": "2026-09-30T23:52:08",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_30092026235137_Stock_Exchange_Intimation_JCF_ARC_funds_receipt_signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106804008",
@@ -3463,10 +3832,9 @@
     "details": "Yes Bank Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
     "time": "2026-09-30T23:18:28",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_30092026231736_Stock_Exchange_Intimation_Income_Tax_AY_17-18-OGE_Order_signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": true,
-    "fallback": true,
-    "priority": 10,
+    "priority": 0,
     "tier": "low"
   },
   {
@@ -3480,7 +3848,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "HDFC Bank announced a change in its management team."
   },
   {
     "id": "106803641",
@@ -3519,7 +3889,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "HDFC Bank reported changes in its management personnel."
   },
   {
     "id": "106803195",
@@ -3568,11 +3940,10 @@
     "details": "Newspaper publication regarding special window for transfer and dematerialisationof physical shares of YES Bank Limited",
     "time": "2026-09-30T17:48:31",
     "pdf": "https://nsearchives.nseindia.com/corporate/YESBANK_30092026174800_YBL_SE_Intimation_Special_window_for_transfer_of_shares_Signed.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106803030",
@@ -3608,11 +3979,10 @@
     "details": "Bharat Electronics Limited has informed the Exchange about ESG Rating.",
     "time": "2026-09-30T16:53:11",
     "pdf": "https://nsearchives.nseindia.com/corporate/BEL_30092026164929_Lettersigned.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106802333",
@@ -3624,9 +3994,9 @@
     "pdf": "https://nsearchives.nseindia.com/corporate/INFY_30092026152928_PR_30092026.pdf",
     "category": "press_release",
     "is_intimation": false,
-    "fallback": true,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Infosys and ABN Amro extended their strategic collaboration to drive AI-driven IT transformation."
   },
   {
     "id": "106802331",
@@ -3636,11 +4006,10 @@
     "details": "Larsen & Toubro Limited has informed the Exchange about General Updates",
     "time": "2026-09-30T15:29:11",
     "pdf": "https://nsearchives.nseindia.com/corporate/PAM_30092026152845_IntimationLTMRHL30092026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106802221",
@@ -3650,11 +4019,11 @@
     "details": "Dixon Technologies (India) Limited has informed the Exchange about Execution of Intellectual Property License Agreement between Dixon Electro Appliances Private Limited,  a Subsidiary / Joint Venture of Dixon Technologies (India) Limited and Aviat Networks (India) Private Limited",
     "time": "2026-09-30T14:45:57",
     "pdf": "https://nsearchives.nseindia.com/corporate/DIXON_30092026144453_AnnouncementAviat30092026.pdf",
-    "category": "press_release",
+    "category": "M&A",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 85,
+    "tier": "high",
+    "summary": "Dixon Technologies' subsidiary executed an intellectual property license agreement with Aviat Networks India."
   },
   {
     "id": "106801893",
@@ -3667,7 +4036,8 @@
     "category": "press_release",
     "is_intimation": false,
     "priority": 45,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Larsen & Toubro bagged new commercial orders and contracts."
   },
   {
     "id": "106801199",
@@ -3677,11 +4047,10 @@
     "details": "ICICI Bank Limited has informed the Exchange regarding 'Filing of amendment to the Annual Securities Report filed with Director of Kanto Regional Finance Bureau on September 18, 2026'.",
     "time": "2026-09-29T20:10:05",
     "pdf": "https://nsearchives.nseindia.com/corporate/ICICI2022_29092026200845_NSEBSE29092026.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106801062",
@@ -3691,11 +4060,10 @@
     "details": "Sun Pharmaceutical Industries Limited has informed the Exchange regarding 'ESG Overview for FY 2025-26'.",
     "time": "2026-09-29T19:22:25",
     "pdf": "https://nsearchives.nseindia.com/corporate/SUNSEC_29092026192130_ESGOVerview2025-26.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   },
   {
     "id": "106800968",
@@ -3747,7 +4115,9 @@
     "category": "management_change",
     "is_intimation": false,
     "priority": 80,
-    "tier": "high"
+    "tier": "high",
+    "people": [],
+    "summary": "Dixon Technologies announced a change in its management."
   },
   {
     "id": "106800722",
@@ -3786,7 +4156,8 @@
     "category": "litigation",
     "is_intimation": false,
     "priority": 55,
-    "tier": "medium"
+    "tier": "medium",
+    "summary": "Bharti Airtel reported regulatory actions or legal orders passed against it."
   },
   {
     "id": "106799738",
@@ -3796,10 +4167,9 @@
     "details": "Newspaper publication regarding special window for transfer and dematerialization of physical shares of HDFC Bank Limited.",
     "time": "2026-09-29T12:12:17",
     "pdf": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_29092026121137_SE_Intimation_-_Special_window.pdf",
-    "category": "press_release",
+    "category": "unclassified",
     "is_intimation": false,
-    "fallback": true,
-    "priority": 45,
-    "tier": "medium"
+    "priority": 5,
+    "tier": "low"
   }
 ]

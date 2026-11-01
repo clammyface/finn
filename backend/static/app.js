@@ -229,7 +229,7 @@ function fullCard(i, px) {
       ${moved ? chip(`${signed(px.pct_change)}% that day`, px.pct_change >= 0 ? "bg-emerald-500/15 text-emerald-300" : "bg-rose-500/15 text-rose-300") : ""}
       <span class="ml-auto font-mono text-[11px]">${fmtTime(i.time)}</span></div>
     <p class="text-[15px] leading-snug">${esc(i.summary || i.subject)}</p>
-    ${i.results ? resultsBlock(i.results) : ""}
+    ${i.results?.current?.revenue != null ? resultsBlock(i.results) : ""}
     ${i.people && i.people.length ? peopleBlock(i.people) : ""}
     ${relatedBlock(i.related)}
     <div class="mt-3 flex items-center gap-4 text-xs">
@@ -345,13 +345,14 @@ const VERDICT = {
   partly: ["Partly", "bg-amber-500/15 text-amber-300", "bg-amber-400"],
   missed: ["Missed", "bg-rose-500/15 text-rose-300", "bg-rose-400"],
   too_early: ["Too early", "bg-zinc-800 text-zinc-400", "bg-zinc-600"],
+  unclear: ["Unclear", "bg-zinc-800 text-zinc-500", "bg-zinc-700"],
 };
 
 async function renderResearch(sym) {
   view.innerHTML = `
     <header class="mb-4">
       <h1 class="text-3xl font-semibold tracking-tight">Promise ledger</h1>
-      <p class="text-sm text-zinc-400">Did management deliver what they promised? Built only from the last four earnings calls and reported numbers. No news, no broker notes.</p>
+      <p class="text-sm text-zinc-400">Did management deliver what they promised? Built only from the last six earnings calls and reported numbers. No news, no broker notes.</p>
     </header>
     <form id="rform" class="mb-3 flex gap-2">
       <input id="rsym" autocapitalize="characters" autocomplete="off" placeholder="Any NSE symbol, e.g. HAVELLS"
@@ -378,7 +379,7 @@ async function renderResearch(sym) {
 async function loadResearch(sym) {
   const out = document.getElementById("rout");
   if (!out) return;
-  out.innerHTML = loading(`Reading ${sym}'s last 4 earnings calls… about a minute the first time, instant after that.`);
+  out.innerHTML = loading(`Reading ${sym}'s last 6 earnings calls… this takes a few minutes the first time, and is instant after that.`);
   try {
     const r = await api(`/api/research/${encodeURIComponent(sym)}`);
     if (!document.getElementById("rout")) return;
@@ -406,7 +407,8 @@ function drawLedger() {
       <p class="text-[15px] font-medium leading-snug">${esc(l.promise)}</p>
       <p class="mt-1 text-sm text-zinc-400">${esc(l.evidence)}</p>
       ${l.quote ? `<blockquote class="mt-2 border-l-2 border-accent/50 pl-3 text-xs italic text-zinc-500">“${esc(l.quote)}”
-        ${url ? `<a href="${esc(url)}${l.page ? "#page=" + esc(l.page) : ""}" target="_blank" rel="noopener" class="not-italic text-sky-400">p.${esc(l.page)} ↗</a>` : ""}</blockquote>` : ""}
+        ${url ? `<a href="${esc(url)}${l.page && l.page_checked !== false ? "#page=" + esc(l.page) : ""}" target="_blank" rel="noopener" class="not-italic text-sky-400">${l.page_checked === false ? "transcript" : "p." + esc(l.page)} ↗</a>` : ""}
+        ${l.page_checked === false ? `<span class="not-italic text-zinc-600">· not found word for word</span>` : ""}</blockquote>` : ""}
     </article>`;
   }).join("") || empty(ledger.length ? "No promises with this verdict."
     : !(r.calls || []).length ? "This company doesn't publish earnings-call transcripts, so there are no promises to check. The numbers below are its reported financials."

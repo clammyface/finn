@@ -72,7 +72,7 @@ def fetch_screener(symbol):
             return soup, url
     raise NotFound(f"{symbol} was not found on screener.in")
 
-def find_transcripts(soup, n=4):
+def find_transcripts(soup, n=6):             # ~18 months back, so some promises are already due
     out, seen = [], set()
     for a in soup.find_all("a"):
         href = a.get("href")
@@ -161,6 +161,42 @@ Use only the transcript. If there is no guidance, return an empty list.
 TRANSCRIPT:
 """
 
+# Repeated after the text, because the cheap model otherwise stops after the first item.
+GUIDANCE_REMINDER = """
+END OF TRANSCRIPT EXCERPT.
+Now return the JSON. List EVERY distinct piece of management guidance in this excerpt, not just the first.
+Each item needs its exact quote and page number."""
+
+CHUNK_PAGES = 8      # given a whole 25-page call at once, the cheap model finds 0-2 promises; 8 pages at a time, 6+
+
+def extract_guidance(prompt, text):
+    pages = [p for p in re.split(r"(?=\[p\.\d+\])", text[:120000]) if p.strip()]
+    out = {"guidance": []}
+    for i in range(0, len(pages), CHUNK_PAGES):
+        g = ask(prompt + "".join(pages[i:i + CHUNK_PAGES]) + GUIDANCE_REMINDER)
+        if isinstance(g, list):          # sometimes the object comes back wrapped in a one-item list
+            g = g[0] if len(g) == 1 and isinstance(g[0], dict) else {"guidance": g}
+        for k in ("quarter_discussed", "business", "tone"):
+            out[k] = out.get(k) or g.get(k)
+        out["guidance"] += g.get("guidance") or []
+    return out
+
+def find_page(text, quote):
+    """The page a quote is on, found in the transcript by Python. Models get page numbers off by one."""
+    norm = lambda s: " ".join(re.findall(r"[a-z]+|[0-9]+", s.lower()))     # "INR14" and "INR 14" match
+    parts = re.split(r"\[p\.(\d+)\]", text or "")
+    pages = [(int(n), norm(body)) for n, body in zip(parts[1::2], parts[2::2])]
+    # A quote may join two passages with "...", start with a speaker's name or run over a page header,
+    # so look for its longest piece, then for that piece's first 6 words, then its last 6.
+    piece = max((norm(p) for p in re.split(r"\.\.\.|…", quote or "")), key=len, default="")
+    words = piece.split()
+    for probe in (piece, " ".join(words[:6]), " ".join(words[-6:])):
+        if len(probe) >= 15:
+            for n, body in pages:
+                if probe in body:
+                    return n
+    return None
+
 LEDGER_PROMPT = """You are checking whether the management of <COMPANY> delivered what they promised.
 Use ONLY the two data blocks below. Do not use any outside knowledge about the company.
 Indian fiscal year: Q1 = Apr-Jun, Q2 = Jul-Sep, Q3 = Oct-Dec, Q4 = Jan-Mar; FY26 = Apr 2025 to Mar 2026.
@@ -175,9 +211,11 @@ ANNUAL CASH AND DEBT (Rs crore):
 <CASH>
 
 Tasks:
-1. Merge repeated promises. For each distinct promise give a verdict: "delivered", "partly",
-   "missed" or "too_early" (period not over, or not measurable from these numbers).
-   The evidence must cite the actual numbers.
+1. Merge only promises that repeat the same commitment (same metric and period) and keep every other one;
+   six calls usually give 10 to 25 distinct promises. For each distinct promise give a verdict: "delivered", "partly",
+   "missed", "too_early" (its period is not over yet) or "unclear" (its period is over, but neither these numbers
+   nor what management said in later calls shows the outcome).
+   The evidence must cite the actual numbers, or the later call that restated, moved or dropped the promise.
 2. narrative_vs_numbers: 2 to 4 points where the story and the numbers agree or diverge.
 3. bull and bear: 3 points each, every point backed by a number from the data.
 4. credibility: a score from 0 to 10 and one sentence explaining it.
@@ -204,13 +242,14 @@ def run(symbol, refresh=False):
     transcripts = find_transcripts(soup)
     print(name, "-", len(transcripts), "transcripts found")
 
-    calls = []
+    calls, texts = [], {}
     for t in reversed(transcripts):          # oldest first
         try:
             text, pdf = transcript_text(t["url"])
             prompt = GUIDANCE_PROMPT.replace("<COMPANY>", name).replace("<DATE>", t["date"])
             if text:
-                g = ask(prompt + text[:120000])
+                g = extract_guidance(prompt, text)
+                texts[t["date"]] = text
             else:
                 g = ask(prompt + "(the transcript is the attached PDF)", pdf_bytes=pdf)
             g["call_date"], g["url"] = t["date"], t["url"]
@@ -236,6 +275,15 @@ def run(symbol, refresh=False):
         except Exception as e:
             print("   strong model unavailable, using cheap model:", e)
             analysis = ask(prompt, model=CHEAP)
+        quarter = {c["call_date"]: c.get("quarter_discussed") for c in calls}
+        for item in analysis.get("ledger") or []:
+            # Look in the call the model named first; when it merges repeats it sometimes names the wrong one.
+            dates = sorted(texts, key=lambda d: d != item.get("call_date"))
+            found = next(((d, p) for d in dates if (p := find_page(texts[d], item.get("quote")))), None)
+            item["page_checked"] = found is not None
+            if found:
+                item["call_date"], item["page"] = found
+                item["made_in"] = quarter.get(found[0]) or item.get("made_in")
 
     latest = calls[-1] if calls else {}
     result = {
@@ -256,7 +304,9 @@ if __name__ == "__main__":
     for s in sys.argv[1:]:
         r = run(s, refresh=True)
         a = r["analysis"]
-        print(f'\n{r["name"]}: {len(a.get("ledger", []))} promises checked, '
-              f'credibility {a.get("credibility", {}).get("score")}/10, {r["ai_calls"]} AI calls')
+        ledger = a.get("ledger", [])
+        print(f'\n{r["name"]}: {len(ledger)} promises checked, '
+              f'credibility {a.get("credibility", {}).get("score")}/10, {r["ai_calls"]} AI calls, '
+              f'{sum(1 for l in ledger if l.get("page_checked"))} quotes found in the transcript')
         for item in a.get("ledger", [])[:6]:
             print(f'  [{item.get("verdict")}] {item.get("promise")}')
