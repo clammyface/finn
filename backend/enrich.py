@@ -246,7 +246,8 @@ for it in items:
         it["category"], it["is_intimation"] = cat, is_intimation(it)
     else:
         todo.append(it)
-ruled = len(items) - len(todo)
+# What the rules can sort, not what is already sorted: a re-run also reuses earlier AI answers.
+ruled = sum(1 for it in items if rule_category(it["subject"], it["details"]))
 print(f"Step 1 rules done. Sending {len(todo)} to the AI")
 
 # Step 2: AI classification, 40 per call
